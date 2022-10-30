@@ -207,6 +207,24 @@
     ],
     "timestamp": "Mar/11/2023 19:35"
   },
+  "CF178524332": {
+    "contest_id": 1742,
+    "language": "GNU C++17",
+    "path": "codeforces\\1742\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Increasing",
+    "problem_url": "https://codeforces.com/contest/1742/problem/B",
+    "submission_id": "CF178524332",
+    "submission_url": "https://codeforces.com/contest/1742/submission/178524332",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Oct/30/2022 18:20"
+  },
   "CF178598372": {
     "contest_id": 1722,
     "language": "GNU C++17",
