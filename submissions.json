@@ -207,6 +207,24 @@
     ],
     "timestamp": "Mar/11/2023 19:35"
   },
+  "CF178944233": {
+    "contest_id": 1676,
+    "language": "GNU C++17",
+    "path": "codeforces\\1676\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Equal Candies",
+    "problem_url": "https://codeforces.com/contest/1676/problem/B",
+    "submission_id": "CF178944233",
+    "submission_url": "https://codeforces.com/contest/1676/submission/178944233",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/02/2022 16:51"
+  },
   "CF179085018": {
     "contest_id": 1669,
     "language": "GNU C++17",
