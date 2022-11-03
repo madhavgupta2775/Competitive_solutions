@@ -207,6 +207,25 @@
     ],
     "timestamp": "Mar/11/2023 19:35"
   },
+  "CF179091257": {
+    "contest_id": 1669,
+    "language": "GNU C++17",
+    "path": "codeforces\\1669\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Odd/Even Increments",
+    "problem_url": "https://codeforces.com/contest/1669/problem/C",
+    "submission_id": "CF179091257",
+    "submission_url": "https://codeforces.com/contest/1669/submission/179091257",
+    "tags": [
+      "greedy",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/03/2022 21:14"
+  },
   "CF179209887": {
     "contest_id": 1747,
     "language": "GNU C++17",
