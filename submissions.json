@@ -207,6 +207,23 @@
     ],
     "timestamp": "Mar/11/2023 19:35"
   },
+  "CF179209887": {
+    "contest_id": 1747,
+    "language": "GNU C++17",
+    "path": "codeforces\\1747\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Groups",
+    "problem_url": "https://codeforces.com/contest/1747/problem/A",
+    "submission_id": "CF179209887",
+    "submission_url": "https://codeforces.com/contest/1747/submission/179209887",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Nov/04/2022 20:14"
+  },
   "CF179309449": {
     "contest_id": 1747,
     "language": "GNU C++17",
