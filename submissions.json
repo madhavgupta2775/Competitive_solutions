@@ -1,4 +1,20 @@
 {
+  "CF181322015": {
+    "contest_id": 1749,
+    "language": "GNU C++17",
+    "path": "codeforces\\1749\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Death's Blessing",
+    "problem_url": "https://codeforces.com/contest/1749/problem/B",
+    "submission_id": "CF181322015",
+    "submission_url": "https://codeforces.com/contest/1749/submission/181322015",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Nov/17/2022 19:54"
+  },
   "CF181376913": {
     "contest_id": 1736,
     "language": "GNU C++17",
