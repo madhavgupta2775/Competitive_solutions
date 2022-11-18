@@ -1,4 +1,21 @@
 {
+  "CF181380813": {
+    "contest_id": 1736,
+    "language": "GNU C++17",
+    "path": "codeforces\\1736\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Playing with GCD",
+    "problem_url": "https://codeforces.com/contest/1736/problem/B",
+    "submission_id": "CF181380813",
+    "submission_url": "https://codeforces.com/contest/1736/submission/181380813",
+    "tags": [
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Nov/18/2022 11:51"
+  },
   "CF181436256": {
     "contest_id": 1759,
     "language": "GNU C++17",
