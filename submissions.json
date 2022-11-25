@@ -1,4 +1,21 @@
 {
+  "CF182483976": {
+    "contest_id": 1758,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1758\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "SSeeeeiinngg DDoouubbllee",
+    "problem_url": "https://codeforces.com/contest/1758/problem/A",
+    "submission_id": "CF182483976",
+    "submission_url": "https://codeforces.com/contest/1758/submission/182483976",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/25/2022 21:08"
+  },
   "CF182499286": {
     "contest_id": 1758,
     "language": "GNU C++20 (64)",
