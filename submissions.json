@@ -1,4 +1,21 @@
 {
+  "CF186928690": {
+    "contest_id": 1731,
+    "language": "GNU C++17",
+    "path": "codeforces\\1731\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kill Demodogs",
+    "problem_url": "https://codeforces.com/contest/1731/problem/B",
+    "submission_id": "CF186928690",
+    "submission_url": "https://codeforces.com/contest/1731/submission/186928690",
+    "tags": [
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Dec/27/2022 21:19"
+  },
   "CF188437673": {
     "contest_id": 1783,
     "language": "GNU C++17",
