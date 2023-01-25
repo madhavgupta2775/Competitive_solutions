@@ -1,4 +1,21 @@
 {
+  "CF190505221": {
+    "contest_id": 1780,
+    "language": "GNU C++17",
+    "path": "codeforces\\1780\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hayato and School",
+    "problem_url": "https://codeforces.com/contest/1780/problem/A",
+    "submission_id": "CF190505221",
+    "submission_url": "https://codeforces.com/contest/1780/submission/190505221",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/25/2023 20:15"
+  },
   "CF190531717": {
     "contest_id": 1780,
     "language": "GNU C++17",
