@@ -4,32 +4,30 @@ using namespace std;
 #define forn(i,a,n) for(long long i = a; i < n; i++)
 #define endl "\n" 
 #define int long long
-#define ff first
-#define ss second
 
 const int MOD2 = 1e9+7;
 const int MOD = 998244353;
 
 void solve() {
     int n, temp = 0, i = 1, ans = 0; cin >> n;
-    multiset<int> m;
+    map<int, int> m;
     forn(i, 0, n){
         cin >> temp;
-        m.insert(temp);
+        m[temp]++;
     }
-    multiset<int>::iterator tt = m.begin();
+    map<int, int>::iterator tt = m.begin(); tt++;
     for(auto it : m){
         if(i == 1){
-            ans += m.count(it);
-            i++; continue;
+            ans += it.second;
         }
-        else if(it-*tt ==1){
-            ans += max(0ll, (int)m.count(it) - (int)m.count(*tt));
+        if(i != m.size()){
+            if(tt->first - it.first != 1){
+                ans += tt->second;tt++;i++; continue;
+            }
+            ans += max(0ll, tt->second - it.second);
+            tt++;
         }
-        else if(it-*tt >1){
-            ans += m.count(it);
-        }
-        i++; tt++;
+        i++;
     }
     cout << ans << endl;
 }   
