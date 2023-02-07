@@ -1,4 +1,22 @@
 {
+  "CF192671058": {
+    "contest_id": 1791,
+    "language": "GNU C++17",
+    "path": "codeforces\\1791\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Distinct Split",
+    "problem_url": "https://codeforces.com/contest/1791/problem/D",
+    "submission_id": "CF192671058",
+    "submission_url": "https://codeforces.com/contest/1791/submission/192671058",
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Feb/08/2023 04:23"
+  },
   "CF192671231": {
     "contest_id": 1791,
     "language": "GNU C++17",
