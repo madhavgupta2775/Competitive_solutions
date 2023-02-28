@@ -1,4 +1,22 @@
 {
+  "CF195289170": {
+    "contest_id": 1796,
+    "language": "GNU C++17",
+    "path": "codeforces\\1796\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Typical Interview Problem",
+    "problem_url": "https://codeforces.com/contest/1796/problem/A",
+    "submission_id": "CF195289170",
+    "submission_url": "https://codeforces.com/contest/1796/submission/195289170",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Feb/28/2023 20:15"
+  },
   "CF195480411": {
     "contest_id": 1768,
     "language": "GNU C++17",
