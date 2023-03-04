@@ -1,4 +1,20 @@
 {
+  "AC39452219": {
+    "contest_id": "abc292",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc292\\F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Regular Triangle Inside a Rectangle",
+    "problem_url": "https://atcoder.jp/contests/abc292/tasks/abc292_f",
+    "submission_id": "AC39452219",
+    "submission_url": "https://atcoder.jp/contests/abc292/submissions/39452219",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Mar/04/2023 23:11"
+  },
   "CF181322015": {
     "contest_id": 1749,
     "language": "GNU C++17",
