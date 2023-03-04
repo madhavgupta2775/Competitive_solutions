@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-83 | [A - Prefix and Suffix Array](https://codeforces.com/contest/1794/problem/A) | [GNU C++17](./codeforces/1794/A.cpp) | `constructive algorithms` `strings` | Mar/05/2023 23:48 | 
-82 | [F - Regular Triangle Inside a Rectangle](https://atcoder.jp/contests/abc292/tasks/abc292_f) | [C++ (GCC 9.2.1)](./atcoder/abc292/F.cpp) | `AtCoder` `*500` | Mar/04/2023 23:11 | 
-81 | [E - Transitivity](https://atcoder.jp/contests/abc292/tasks/abc292_e) | [C++ (GCC 9.2.1)](./atcoder/abc292/E.cpp) | `AtCoder` `*500` | Mar/04/2023 19:59 | 
-80 | [D - Unicyclic Components](https://atcoder.jp/contests/abc292/tasks/abc292_d) | [C++ (GCC 9.2.1)](./atcoder/abc292/D.cpp) | `AtCoder` `*400` | Mar/04/2023 18:41 | 
-79 | [C - Four Variables](https://atcoder.jp/contests/abc292/tasks/abc292_c) | [C++ (GCC 9.2.1)](./atcoder/abc292/C.cpp) | `AtCoder` `*300` | Mar/04/2023 17:52 | 
+84 | [A - Prefix and Suffix Array](https://codeforces.com/contest/1794/problem/A) | [GNU C++17](./codeforces/1794/A.cpp) | `constructive algorithms` `strings` | Mar/05/2023 23:48 | 
+83 | [F - Regular Triangle Inside a Rectangle](https://atcoder.jp/contests/abc292/tasks/abc292_f) | [C++ (GCC 9.2.1)](./atcoder/abc292/F.cpp) | `AtCoder` `*500` | Mar/04/2023 23:11 | 
+82 | [E - Transitivity](https://atcoder.jp/contests/abc292/tasks/abc292_e) | [C++ (GCC 9.2.1)](./atcoder/abc292/E.cpp) | `AtCoder` `*500` | Mar/04/2023 19:59 | 
+81 | [D - Unicyclic Components](https://atcoder.jp/contests/abc292/tasks/abc292_d) | [C++ (GCC 9.2.1)](./atcoder/abc292/D.cpp) | `AtCoder` `*400` | Mar/04/2023 18:41 | 
+80 | [C - Four Variables](https://atcoder.jp/contests/abc292/tasks/abc292_c) | [C++ (GCC 9.2.1)](./atcoder/abc292/C.cpp) | `AtCoder` `*300` | Mar/04/2023 17:52 | 
+79 | [B - Yellow and Red Card](https://atcoder.jp/contests/abc292/tasks/abc292_b) | [C++ (GCC 9.2.1)](./atcoder/abc292/B.cpp) | `AtCoder` `*200` | Mar/04/2023 17:37 | 
 78 | [D - Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | [GNU C++17](./codeforces/1800/D.cpp) | `data structures` `greedy` `hashing` `strings` | Mar/04/2023 16:51 | 
 77 | [C1 - Powering the Hero (easy version)](https://codeforces.com/contest/1800/problem/C1) | [GNU C++17](./codeforces/1800/C1.cpp) | `data structures` `greedy` | Mar/04/2023 14:24 | 
 76 | [C2 - Powering the Hero (hard version)](https://codeforces.com/contest/1800/problem/C2) | [GNU C++17](./codeforces/1800/C2.cpp) | `data structures` `greedy` | Mar/04/2023 14:24 | 
