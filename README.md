@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+90 | [C - Make Takahashi Happy](https://atcoder.jp/contests/abc293/tasks/abc293_c) | [C++ (GCC 9.2.1)](./atcoder/abc293/C.cpp) | `AtCoder` `*300` | Mar/11/2023 19:35 | 
 89 | [A - Prefix and Suffix Array](https://codeforces.com/contest/1794/problem/A) | [GNU C++17](./codeforces/1794/A.cpp) | `constructive algorithms` `strings` | Mar/05/2023 23:48 | 
 88 | [F - Regular Triangle Inside a Rectangle](https://atcoder.jp/contests/abc292/tasks/abc292_f) | [C++ (GCC 9.2.1)](./atcoder/abc292/F.cpp) | `AtCoder` `*500` | Mar/04/2023 23:11 | 
 87 | [E - Transitivity](https://atcoder.jp/contests/abc292/tasks/abc292_e) | [C++ (GCC 9.2.1)](./atcoder/abc292/E.cpp) | `AtCoder` `*500` | Mar/04/2023 19:59 | 
