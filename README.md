@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-121 | [A - Recent Actions](https://codeforces.com/contest/1799/problem/A) | [GNU C++17](./codeforces/1799/A.cpp) | `data structures` `greedy` `implementation` `math` `*800` | Mar/15/2023 18:14 | 
+122 | [A - Recent Actions](https://codeforces.com/contest/1799/problem/A) | [GNU C++17](./codeforces/1799/A.cpp) | `data structures` `greedy` `implementation` `math` `*800` | Mar/15/2023 18:14 | 
+121 | [C - Double Lexicographically Minimum](https://codeforces.com/contest/1799/problem/C) | [GNU C++17](./codeforces/1799/C.cpp) | `greedy` `strings` `*1700` | Mar/15/2023 15:32 | 
 120 | [C - Make Takahashi Happy](https://atcoder.jp/contests/abc293/tasks/abc293_c) | [C++ (GCC 9.2.1)](./atcoder/abc293/C.cpp) | `AtCoder` `*300` | Mar/11/2023 19:35 | 
 119 | [B - Call the ID Number](https://atcoder.jp/contests/abc293/tasks/abc293_b) | [C++ (GCC 9.2.1)](./atcoder/abc293/B.cpp) | `AtCoder` `*200` | Mar/11/2023 17:48 | 
 118 | [A - Swap Odd and Even](https://atcoder.jp/contests/abc293/tasks/abc293_a) | [C++ (GCC 9.2.1)](./atcoder/abc293/A.cpp) | `AtCoder` `*100` | Mar/11/2023 17:36 | 

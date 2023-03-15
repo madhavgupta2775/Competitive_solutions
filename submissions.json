@@ -2084,6 +2084,23 @@
     ],
     "timestamp": "Mar/05/2023 23:48"
   },
+  "CF197489155": {
+    "contest_id": 1799,
+    "language": "GNU C++17",
+    "path": "codeforces\\1799\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Double Lexicographically Minimum",
+    "problem_url": "https://codeforces.com/contest/1799/problem/C",
+    "submission_id": "CF197489155",
+    "submission_url": "https://codeforces.com/contest/1799/submission/197489155",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Mar/15/2023 15:32"
+  },
   "CF197509990": {
     "contest_id": 1799,
     "language": "GNU C++17",
