@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-123 | [E2 - Unforgivable Curse (hard version)](https://codeforces.com/contest/1800/problem/E2) | [GNU C++17](./codeforces/1800/E2.cpp) | `brute force` `constructive algorithms` `dfs and similar` `dsu` `graphs` `greedy` `strings` `*1500` | Mar/15/2023 19:05 | 
+124 | [E2 - Unforgivable Curse (hard version)](https://codeforces.com/contest/1800/problem/E2) | [GNU C++17](./codeforces/1800/E2.cpp) | `brute force` `constructive algorithms` `dfs and similar` `dsu` `graphs` `greedy` `strings` `*1500` | Mar/15/2023 19:05 | 
+123 | [E1 - Unforgivable Curse (easy version)](https://codeforces.com/contest/1800/problem/E1) | [GNU C++17](./codeforces/1800/E1.cpp) | `brute force` `constructive algorithms` `dsu` `graphs` `greedy` `strings` `*1400` | Mar/15/2023 19:05 | 
 122 | [A - Recent Actions](https://codeforces.com/contest/1799/problem/A) | [GNU C++17](./codeforces/1799/A.cpp) | `data structures` `greedy` `implementation` `math` `*800` | Mar/15/2023 18:14 | 
 121 | [C - Double Lexicographically Minimum](https://codeforces.com/contest/1799/problem/C) | [GNU C++17](./codeforces/1799/C.cpp) | `greedy` `strings` `*1700` | Mar/15/2023 15:32 | 
 120 | [C - Make Takahashi Happy](https://atcoder.jp/contests/abc293/tasks/abc293_c) | [C++ (GCC 9.2.1)](./atcoder/abc293/C.cpp) | `AtCoder` `*300` | Mar/11/2023 19:35 | 
