@@ -2083,5 +2083,24 @@
       "strings"
     ],
     "timestamp": "Mar/05/2023 23:48"
+  },
+  "CF197509990": {
+    "contest_id": 1799,
+    "language": "GNU C++17",
+    "path": "codeforces\\1799\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Recent Actions",
+    "problem_url": "https://codeforces.com/contest/1799/problem/A",
+    "submission_id": "CF197509990",
+    "submission_url": "https://codeforces.com/contest/1799/submission/197509990",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/15/2023 18:14"
   }
 }
