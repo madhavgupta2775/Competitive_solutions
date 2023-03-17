@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+126 | [C - Maximum Set](https://codeforces.com/contest/1796/problem/C) | [GNU C++20 (64)](./codeforces/1796/C.cpp) | `binary search` `math` `*1600` | Mar/17/2023 20:28 | 
 125 | [B - Asterisk-Minor Template](https://codeforces.com/contest/1796/problem/B) | [GNU C++20 (64)](./codeforces/1796/B.cpp) | `implementation` `strings` `*1000` | Mar/16/2023 16:03 | 
 124 | [E1 - Unforgivable Curse (easy version)](https://codeforces.com/contest/1800/problem/E1) | [GNU C++17](./codeforces/1800/E1.cpp) | `brute force` `constructive algorithms` `dsu` `graphs` `greedy` `strings` `*1400` | Mar/15/2023 19:05 | 
 123 | [E2 - Unforgivable Curse (hard version)](https://codeforces.com/contest/1800/problem/E2) | [GNU C++17](./codeforces/1800/E2.cpp) | `brute force` `constructive algorithms` `dfs and similar` `dsu` `graphs` `greedy` `strings` `*1500` | Mar/15/2023 19:05 | 
