@@ -207,6 +207,22 @@
     ],
     "timestamp": "Mar/11/2023 19:35"
   },
+  "AC39851720": {
+    "contest_id": "abc294",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc294\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Merge Sequences",
+    "problem_url": "https://atcoder.jp/contests/abc294/tasks/abc294_c",
+    "submission_id": "AC39851720",
+    "submission_url": "https://atcoder.jp/contests/abc294/submissions/39851720",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/19/2023 17:39"
+  },
   "AC39857048": {
     "contest_id": "abc294",
     "language": "C++ (GCC 9.2.1)",
