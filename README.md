@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-132 | [E - 2xN Grid](https://atcoder.jp/contests/abc294/tasks/abc294_e) | [C++ (GCC 9.2.1)](./atcoder/abc294/E.cpp) | `AtCoder` `*500` | Mar/19/2023 18:24 | 
-131 | [D - Bank](https://atcoder.jp/contests/abc294/tasks/abc294_d) | [C++ (GCC 9.2.1)](./atcoder/abc294/D.cpp) | `AtCoder` `*400` | Mar/19/2023 17:48 | 
-130 | [C - Merge Sequences](https://atcoder.jp/contests/abc294/tasks/abc294_c) | [C++ (GCC 9.2.1)](./atcoder/abc294/C.cpp) | `AtCoder` `*300` | Mar/19/2023 17:39 | 
+133 | [E - 2xN Grid](https://atcoder.jp/contests/abc294/tasks/abc294_e) | [C++ (GCC 9.2.1)](./atcoder/abc294/E.cpp) | `AtCoder` `*500` | Mar/19/2023 18:24 | 
+132 | [D - Bank](https://atcoder.jp/contests/abc294/tasks/abc294_d) | [C++ (GCC 9.2.1)](./atcoder/abc294/D.cpp) | `AtCoder` `*400` | Mar/19/2023 17:48 | 
+131 | [C - Merge Sequences](https://atcoder.jp/contests/abc294/tasks/abc294_c) | [C++ (GCC 9.2.1)](./atcoder/abc294/C.cpp) | `AtCoder` `*300` | Mar/19/2023 17:39 | 
+130 | [B - ASCII Art](https://atcoder.jp/contests/abc294/tasks/abc294_b) | [C++ (GCC 9.2.1)](./atcoder/abc294/B.cpp) | `AtCoder` `*200` | Mar/19/2023 17:35 | 
 129 | [C - Sequence Master](https://codeforces.com/contest/1806/problem/C) | [GNU C++20 (64)](./codeforces/1806/C.cpp) | `brute force` `constructive algorithms` `math` | Mar/19/2023 12:00 | 
 128 | [B - Mex Master](https://codeforces.com/contest/1806/problem/B) | [GNU C++20 (64)](./codeforces/1806/B.cpp) | `constructive algorithms` `greedy` | Mar/18/2023 18:17 | 
 127 | [A - Walking Master](https://codeforces.com/contest/1806/problem/A) | [GNU C++20 (64)](./codeforces/1806/A.cpp) | `geometry` `greedy` `math` | Mar/18/2023 17:39 | 
