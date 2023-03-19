@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+129 | [C - Sequence Master](https://codeforces.com/contest/1806/problem/C) | [GNU C++20 (64)](./codeforces/1806/C.cpp) | `brute force` `constructive algorithms` `math` | Mar/19/2023 12:00 | 
 128 | [B - Mex Master](https://codeforces.com/contest/1806/problem/B) | [GNU C++20 (64)](./codeforces/1806/B.cpp) | `constructive algorithms` `greedy` | Mar/18/2023 18:17 | 
 127 | [A - Walking Master](https://codeforces.com/contest/1806/problem/A) | [GNU C++20 (64)](./codeforces/1806/A.cpp) | `geometry` `greedy` `math` | Mar/18/2023 17:39 | 
 126 | [C - Maximum Set](https://codeforces.com/contest/1796/problem/C) | [GNU C++20 (64)](./codeforces/1796/C.cpp) | `binary search` `math` `*1600` | Mar/17/2023 20:28 | 
