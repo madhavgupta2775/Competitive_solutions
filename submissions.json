@@ -207,6 +207,22 @@
     ],
     "timestamp": "Mar/11/2023 19:35"
   },
+  "AC39857048": {
+    "contest_id": "abc294",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc294\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Bank",
+    "problem_url": "https://atcoder.jp/contests/abc294/tasks/abc294_d",
+    "submission_id": "AC39857048",
+    "submission_url": "https://atcoder.jp/contests/abc294/submissions/39857048",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Mar/19/2023 17:48"
+  },
   "AC39869491": {
     "contest_id": "abc294",
     "language": "C++ (GCC 9.2.1)",
