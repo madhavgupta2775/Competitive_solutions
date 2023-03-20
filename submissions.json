@@ -2326,5 +2326,22 @@
       "math"
     ],
     "timestamp": "Mar/19/2023 12:00"
+  },
+  "CF198340433": {
+    "contest_id": 1807,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1807\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Interview",
+    "problem_url": "https://codeforces.com/contest/1807/problem/E",
+    "submission_id": "CF198340433",
+    "submission_url": "https://codeforces.com/contest/1807/submission/198340433",
+    "tags": [
+      "binary search",
+      "implementation",
+      "interactive"
+    ],
+    "timestamp": "Mar/20/2023 15:31"
   }
 }
