@@ -2344,6 +2344,24 @@
     ],
     "timestamp": "Mar/20/2023 15:31"
   },
+  "CF198488708": {
+    "contest_id": 1807,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1807\\G1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Subsequence Addition (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1807/problem/G1",
+    "submission_id": "CF198488708",
+    "submission_url": "https://codeforces.com/contest/1807/submission/198488708",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "Mar/21/2023 17:35"
+  },
   "CF198488771": {
     "contest_id": 1807,
     "language": "GNU C++20 (64)",
