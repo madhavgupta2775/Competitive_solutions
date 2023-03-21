@@ -2343,5 +2343,24 @@
       "interactive"
     ],
     "timestamp": "Mar/20/2023 15:31"
+  },
+  "CF198488771": {
+    "contest_id": 1807,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1807\\G2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Subsequence Addition (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1807/problem/G2",
+    "submission_id": "CF198488771",
+    "submission_url": "https://codeforces.com/contest/1807/submission/198488771",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "Mar/21/2023 17:35"
   }
 }
