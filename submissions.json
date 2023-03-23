@@ -319,6 +319,22 @@
     ],
     "timestamp": "Mar/21/2023 23:31"
   },
+  "AC39976240": {
+    "contest_id": "dp",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\dp\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Vacation",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_c",
+    "submission_id": "AC39976240",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/39976240",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/23/2023 23:07"
+  },
   "CF178219699": {
     "contest_id": 1703,
     "language": "GNU C++17",
