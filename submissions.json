@@ -2428,5 +2428,20 @@
       "sortings"
     ],
     "timestamp": "Mar/21/2023 17:35"
+  },
+  "CF198973305": {
+    "contest_id": 1809,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1809\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Garland",
+    "problem_url": "https://codeforces.com/contest/1809/problem/A",
+    "submission_id": "CF198973305",
+    "submission_url": "https://codeforces.com/contest/1809/submission/198973305",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Mar/24/2023 21:44"
   }
 }
