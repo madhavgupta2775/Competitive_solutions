@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+142 | [B - Points on Plane](https://codeforces.com/contest/1809/problem/B) | [GNU C++20 (64)](./codeforces/1809/B.cpp) | `binary search` `greedy` `math` | Mar/24/2023 22:12 | 
 141 | [A - Garland](https://codeforces.com/contest/1809/problem/A) | [GNU C++20 (64)](./codeforces/1809/A.cpp) | `implementation` | Mar/24/2023 21:44 | 
 140 | [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [C++ (GCC 9.2.1)](./atcoder/dp/C.cpp) | `AtCoder` `*100` | Mar/23/2023 23:07 | 
 139 | [B - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | [C++ (GCC 9.2.1)](./atcoder/dp/B.cpp) | `AtCoder` `*100` | Mar/21/2023 23:31 | 
