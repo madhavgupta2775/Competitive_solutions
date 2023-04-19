@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-144 | [B - Three Sevens](https://codeforces.com/contest/1798/problem/B) | [GNU C++20 (64)](./codeforces/1798/B.cpp) | `brute force` `data structures` `greedy` `implementation` `*1000` | May/08/2023 22:49 | 
-143 | [A - Showstopper](https://codeforces.com/contest/1798/problem/A) | [GNU C++20 (64)](./codeforces/1798/A.cpp) | `greedy` `implementation` `sortings` `*800` | May/08/2023 22:33 | 
+145 | [B - Three Sevens](https://codeforces.com/contest/1798/problem/B) | [GNU C++20 (64)](./codeforces/1798/B.cpp) | `brute force` `data structures` `greedy` `implementation` `*1000` | May/08/2023 22:49 | 
+144 | [A - Showstopper](https://codeforces.com/contest/1798/problem/A) | [GNU C++20 (64)](./codeforces/1798/A.cpp) | `greedy` `implementation` `sortings` `*800` | May/08/2023 22:33 | 
+143 | [A - Yura's New Name](https://codeforces.com/contest/1820/problem/A) | [GNU C++20 (64)](./codeforces/1820/A.cpp) | `implementation` `strings` `*800` | Apr/19/2023 19:20 | 
 142 | [B - Points on Plane](https://codeforces.com/contest/1809/problem/B) | [GNU C++20 (64)](./codeforces/1809/B.cpp) | `binary search` `greedy` `math` | Mar/24/2023 22:12 | 
 141 | [A - Garland](https://codeforces.com/contest/1809/problem/A) | [GNU C++20 (64)](./codeforces/1809/A.cpp) | `implementation` | Mar/24/2023 21:44 | 
 140 | [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [C++ (GCC 9.2.1)](./atcoder/dp/C.cpp) | `AtCoder` `*100` | Mar/23/2023 23:07 | 
