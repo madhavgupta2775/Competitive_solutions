@@ -2533,6 +2533,24 @@
     ],
     "timestamp": "May/09/2023 00:13"
   },
+  "CF205581313": {
+    "contest_id": 1832,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1832\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Sum",
+    "problem_url": "https://codeforces.com/contest/1832/problem/B",
+    "submission_id": "CF205581313",
+    "submission_url": "https://codeforces.com/contest/1832/submission/205581313",
+    "tags": [
+      "brute force",
+      "dp",
+      "sortings",
+      "two pointers"
+    ],
+    "timestamp": "May/12/2023 20:44"
+  },
   "CF205589890": {
     "contest_id": 1832,
     "language": "GNU C++20 (64)",
