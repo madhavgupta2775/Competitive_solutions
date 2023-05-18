@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+150 | [B - Permutation Swap](https://codeforces.com/contest/1828/problem/B) | [GNU C++20 (64)](./codeforces/1828/B.cpp) | `math` `number theory` `*900` | May/18/2023 22:22 | 
 149 | [C - Contrast Value](https://codeforces.com/contest/1832/problem/C) | [GNU C++20 (64)](./codeforces/1832/C.cpp) | `greedy` `math` | May/12/2023 21:00 | 
 148 | [B - Maximum Sum](https://codeforces.com/contest/1832/problem/B) | [GNU C++20 (64)](./codeforces/1832/B.cpp) | `brute force` `dp` `sortings` `two pointers` | May/12/2023 20:44 | 
 147 | [A - New Palindrome](https://codeforces.com/contest/1832/problem/A) | [GNU C++20 (64)](./codeforces/1832/A.cpp) | `strings` | May/12/2023 20:12 | 

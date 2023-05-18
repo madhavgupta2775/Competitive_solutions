@@ -2581,5 +2581,22 @@
       "math"
     ],
     "timestamp": "May/12/2023 21:00"
+  },
+  "CF206367163": {
+    "contest_id": 1828,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1828\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation Swap",
+    "problem_url": "https://codeforces.com/contest/1828/problem/B",
+    "submission_id": "CF206367163",
+    "submission_url": "https://codeforces.com/contest/1828/submission/206367163",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "May/18/2023 22:22"
   }
 }
