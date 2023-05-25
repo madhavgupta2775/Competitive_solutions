@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-153 | [D - Bracket Coloring](https://codeforces.com/contest/1837/problem/D) | [GNU C++20 (64)](./codeforces/1837/D.cpp) | `constructive algorithms` `data structures` `greedy` | May/25/2023 21:36 | 
-152 | [C - Best Binary String](https://codeforces.com/contest/1837/problem/C) | [GNU C++20 (64)](./codeforces/1837/C.cpp) | `constructive algorithms` `greedy` | May/25/2023 20:25 | 
+154 | [D - Bracket Coloring](https://codeforces.com/contest/1837/problem/D) | [GNU C++20 (64)](./codeforces/1837/D.cpp) | `constructive algorithms` `data structures` `greedy` | May/25/2023 21:36 | 
+153 | [C - Best Binary String](https://codeforces.com/contest/1837/problem/C) | [GNU C++20 (64)](./codeforces/1837/C.cpp) | `constructive algorithms` `greedy` | May/25/2023 20:25 | 
+152 | [B - Comparison String](https://codeforces.com/contest/1837/problem/B) | [GNU C++20 (64)](./codeforces/1837/B.cpp) | `greedy` | May/25/2023 20:13 | 
 151 | [B - Permutation Swap](https://codeforces.com/contest/1828/problem/B) | [GNU C++20 (64)](./codeforces/1828/B.cpp) | `math` `number theory` `*900` | May/18/2023 22:22 | 
 150 | [A - Divisible Array](https://codeforces.com/contest/1828/problem/A) | [GNU C++20 (64)](./codeforces/1828/A.cpp) | `constructive algorithms` `math` `*800` | May/18/2023 21:50 | 
 149 | [C - Contrast Value](https://codeforces.com/contest/1832/problem/C) | [GNU C++20 (64)](./codeforces/1832/C.cpp) | `greedy` `math` | May/12/2023 21:00 | 
