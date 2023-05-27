@@ -335,6 +335,22 @@
     ],
     "timestamp": "Mar/23/2023 23:07"
   },
+  "AC41752216": {
+    "contest_id": "abc303",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc303\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Dash",
+    "problem_url": "https://atcoder.jp/contests/abc303/tasks/abc303_c",
+    "submission_id": "AC41752216",
+    "submission_url": "https://atcoder.jp/contests/abc303/submissions/41752216",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/27/2023 18:09"
+  },
   "CF178219699": {
     "contest_id": 1703,
     "language": "GNU C++17",

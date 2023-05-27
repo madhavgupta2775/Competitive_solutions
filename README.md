@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+156 | [C - Dash](https://atcoder.jp/contests/abc303/tasks/abc303_c) | [C++ (GCC 9.2.1)](./atcoder/abc303/C.cpp) | `AtCoder` `*300` | May/27/2023 18:09 | 
 155 | [D - Bracket Coloring](https://codeforces.com/contest/1837/problem/D) | [GNU C++20 (64)](./codeforces/1837/D.cpp) | `constructive algorithms` `data structures` `greedy` | May/25/2023 21:36 | 
 154 | [C - Best Binary String](https://codeforces.com/contest/1837/problem/C) | [GNU C++20 (64)](./codeforces/1837/C.cpp) | `constructive algorithms` `greedy` | May/25/2023 20:25 | 
 153 | [B - Comparison String](https://codeforces.com/contest/1837/problem/B) | [GNU C++20 (64)](./codeforces/1837/B.cpp) | `greedy` | May/25/2023 20:13 | 
