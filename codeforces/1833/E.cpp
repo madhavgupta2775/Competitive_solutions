@@ -12,17 +12,18 @@ using namespace std;
 
 void solve() {
     int n, maxsize = 0, sizetwo = 0, curr = 0, minsize = 0; cin >> n;
-    vector<set<int>> v(n);
-    vector<int> visited(n);
+    vector<vector<int>> v(n);
+    map<pair<int, int>, bool> visited, pushed;
     queue<int> q;
     forn(i, 0, n){
         cin >> curr;
-        v[i].insert(curr-1);
-        v[curr-1].insert(i);
+        if(!pushed[{i, curr-1}])
+            v[i].push_back(curr-1); pushed[{i, curr-1}] = true;
+        if(!pushed[{curr-1, i}])
+            v[curr-1].push_back(i); pushed[{curr-1, i}] = true;
     }
     forn(i, 0, n){
-        if(!visited[i]){
-            visited[i] = true;
+        if(!visited[{i, v[i][0]}]){
             maxsize++;
             q.push(i);
             while(!q.empty()){
@@ -30,10 +31,11 @@ void solve() {
                 if(v[curr].size() == 1){
                     sizetwo++;
                 }
-                for(auto x: v[curr]){
-                    if(!visited[x]){
-                        q.push(x);
-                        visited[x] = true;
+                for(int j = 0; j < v[curr].size(); j++){
+                    if(!visited[{curr, v[curr][j]}]){
+                        q.push(v[curr][j]);
+                        visited[{curr, v[curr][j]}] = true;
+                        visited[{v[curr][j], curr}] = true;
                     }
                 }
             }

@@ -2728,6 +2728,25 @@
     ],
     "timestamp": "May/25/2023 21:36"
   },
+  "CF207552343": {
+    "contest_id": 1833,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1833\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Round Dance",
+    "problem_url": "https://codeforces.com/contest/1833/problem/E",
+    "submission_id": "CF207552343",
+    "submission_url": "https://codeforces.com/contest/1833/submission/207552343",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "shortest paths",
+      "*1600"
+    ],
+    "timestamp": "May/28/2023 14:58"
+  },
   "CF207554010": {
     "contest_id": 1833,
     "language": "GNU C++20 (64)",
