@@ -2765,5 +2765,20 @@
       "*1600"
     ],
     "timestamp": "May/28/2023 15:17"
+  },
+  "CF208650820": {
+    "contest_id": 1838,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1838\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Blackboard List",
+    "problem_url": "https://codeforces.com/contest/1838/problem/A",
+    "submission_id": "CF208650820",
+    "submission_url": "https://codeforces.com/contest/1838/submission/208650820",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Jun/06/2023 09:56"
   }
 }
