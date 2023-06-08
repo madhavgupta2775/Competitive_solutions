@@ -2813,5 +2813,22 @@
       "number theory"
     ],
     "timestamp": "Jun/06/2023 11:21"
+  },
+  "CF208992183": {
+    "contest_id": 1840,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1840\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Binary Cafe",
+    "problem_url": "https://codeforces.com/contest/1840/problem/B",
+    "submission_id": "CF208992183",
+    "submission_url": "https://codeforces.com/contest/1840/submission/208992183",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math"
+    ],
+    "timestamp": "Jun/08/2023 18:00"
   }
 }
