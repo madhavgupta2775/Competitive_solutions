@@ -2865,6 +2865,21 @@
     ],
     "timestamp": "Jun/08/2023 18:40"
   },
+  "CF209420689": {
+    "contest_id": 1841,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1841\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Game with Board",
+    "problem_url": "https://codeforces.com/contest/1841/problem/A",
+    "submission_id": "CF209420689",
+    "submission_url": "https://codeforces.com/contest/1841/submission/209420689",
+    "tags": [
+      "games"
+    ],
+    "timestamp": "Jun/12/2023 20:35"
+  },
   "CF209429764": {
     "contest_id": 1841,
     "language": "GNU C++20 (64)",
