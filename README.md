@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+166 | [B - Keep it Beautiful](https://codeforces.com/contest/1841/problem/B) | [GNU C++20 (64)](./codeforces/1841/B.cpp) | `implementation` | Jun/12/2023 20:47 | 
 165 | [C - Ski Resort](https://codeforces.com/contest/1840/problem/C) | [GNU C++20 (64)](./codeforces/1840/C.cpp) | `combinatorics` `math` `two pointers` | Jun/08/2023 18:40 | 
 164 | [B - Binary Cafe](https://codeforces.com/contest/1840/problem/B) | [GNU C++20 (64)](./codeforces/1840/B.cpp) | `bitmasks` `combinatorics` `math` | Jun/08/2023 18:00 | 
 163 | [A - Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | [GNU C++20 (64)](./codeforces/1840/A.cpp) | `implementation` `strings` `two pointers` | Jun/08/2023 14:21 | 

@@ -2864,5 +2864,20 @@
       "two pointers"
     ],
     "timestamp": "Jun/08/2023 18:40"
+  },
+  "CF209429764": {
+    "contest_id": 1841,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1841\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Keep it Beautiful",
+    "problem_url": "https://codeforces.com/contest/1841/problem/B",
+    "submission_id": "CF209429764",
+    "submission_url": "https://codeforces.com/contest/1841/submission/209429764",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Jun/12/2023 20:47"
   }
 }
