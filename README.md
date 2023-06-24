@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-168 | [B - Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | [GNU C++20 (64)](./codeforces/1842/B.cpp) | `bitmasks` `greedy` `math` | Jun/24/2023 20:12 | 
+169 | [B - Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | [GNU C++20 (64)](./codeforces/1842/B.cpp) | `bitmasks` `greedy` `math` | Jun/24/2023 20:12 | 
+168 | [A - Tenzing and Tsondu](https://codeforces.com/contest/1842/problem/A) | [GNU C++20 (64)](./codeforces/1842/A.cpp) | `games` `math` | Jun/24/2023 19:39 | 
 167 | [B - Keep it Beautiful](https://codeforces.com/contest/1841/problem/B) | [GNU C++20 (64)](./codeforces/1841/B.cpp) | `implementation` | Jun/12/2023 20:47 | 
 166 | [A - Game with Board](https://codeforces.com/contest/1841/problem/A) | [GNU C++20 (64)](./codeforces/1841/A.cpp) | `games` | Jun/12/2023 20:35 | 
 165 | [C - Ski Resort](https://codeforces.com/contest/1840/problem/C) | [GNU C++20 (64)](./codeforces/1840/C.cpp) | `combinatorics` `math` `two pointers` | Jun/08/2023 18:40 | 
