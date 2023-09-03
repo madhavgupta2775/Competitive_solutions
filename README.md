@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-174 | [E - Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | [GNU C++20 (64)](./codeforces/1872/E.cpp) | `binary search` `bitmasks` `data structures` `dp` | Sep/07/2023 21:25 | 
-173 | [D - Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D) | [GNU C++20 (64)](./codeforces/1872/D.cpp) | `math` | Sep/07/2023 20:49 | 
-172 | [C - Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | [GNU C++20 (64)](./codeforces/1872/C.cpp) | `math` `number theory` | Sep/07/2023 20:31 | 
-171 | [B - The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B) | [GNU C++20 (64)](./codeforces/1872/B.cpp) | `greedy` `implementation` | Sep/07/2023 20:16 | 
-170 | [A - Two Vessels](https://codeforces.com/contest/1872/problem/A) | [GNU C++20 (64)](./codeforces/1872/A.cpp) | `brute force` `greedy` `math` | Sep/07/2023 20:08 | 
+175 | [E - Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | [GNU C++20 (64)](./codeforces/1872/E.cpp) | `binary search` `bitmasks` `data structures` `dp` | Sep/07/2023 21:25 | 
+174 | [D - Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D) | [GNU C++20 (64)](./codeforces/1872/D.cpp) | `math` | Sep/07/2023 20:49 | 
+173 | [C - Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | [GNU C++20 (64)](./codeforces/1872/C.cpp) | `math` `number theory` | Sep/07/2023 20:31 | 
+172 | [B - The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B) | [GNU C++20 (64)](./codeforces/1872/B.cpp) | `greedy` `implementation` | Sep/07/2023 20:16 | 
+171 | [A - Two Vessels](https://codeforces.com/contest/1872/problem/A) | [GNU C++20 (64)](./codeforces/1872/A.cpp) | `brute force` `greedy` `math` | Sep/07/2023 20:08 | 
+170 | [C - Completely Searching for Inversions](https://codeforces.com/contest/1866/problem/C) | [GNU C++20 (64)](./codeforces/1866/C.cpp) | `dfs and similar` `dp` `graphs` | Sep/03/2023 20:07 | 
 169 | [B - Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | [GNU C++20 (64)](./codeforces/1842/B.cpp) | `bitmasks` `greedy` `math` | Jun/24/2023 20:12 | 
 168 | [A - Tenzing and Tsondu](https://codeforces.com/contest/1842/problem/A) | [GNU C++20 (64)](./codeforces/1842/A.cpp) | `games` `math` | Jun/24/2023 19:39 | 
 167 | [B - Keep it Beautiful](https://codeforces.com/contest/1841/problem/B) | [GNU C++20 (64)](./codeforces/1841/B.cpp) | `implementation` | Jun/12/2023 20:47 | 
