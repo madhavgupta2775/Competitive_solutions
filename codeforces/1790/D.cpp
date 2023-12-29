@@ -7,34 +7,32 @@ using namespace std;
 
 void solve() {
     int n; cin >> n;
-
-    map<int, int> frequency_map; // stores frequency of each element
+    map<int, int> mp;
     for(int i = 0; i < n; i++) {
         int x; cin >> x;
-        frequency_map[x]++;
+        mp[x]++;
     }
-
-    int answer = 0, previous_frequency = 0, current_frequency = 0; // current_frequency is the number of dolls being constructed at the moment
-    for(auto x: frequency_map) {
-        if(current_frequency == 0) {
-            current_frequency = x.second;
+    int ans = 0, prev = 0, cnt = 0;
+    for(auto x: mp) {
+        if(cnt == 0) {
+            cnt = x.second;
         }
         else {
-            if(x.first == previous_frequency + 1) { // some dolls will have the current number
-                answer += max(0LL, current_frequency - x.second);
-                current_frequency = x.second;
+            if(x.first == prev + 1) {
+                ans += max(0LL, cnt - x.second);
+                cnt = x.second;
             }
-            else { // new dolls will be constructed starting from this number
-                answer += current_frequency;
-                current_frequency = x.second;
+            else {
+                ans += cnt;
+                cnt = x.second;
             }
         }
-        previous_frequency = x.first;
+        prev = x.first;
     }
-    if(current_frequency != 0) {
-        answer += current_frequency;
+    if(cnt != 0) {
+        ans += cnt;
     }
-    cout << answer << endl;
+    cout << ans << endl;
 }
 
  
