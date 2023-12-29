@@ -8,34 +8,32 @@ using namespace std;
 void solve() {
     int n; cin >> n;
 
-    multiset<int> dolls;
+    map<int, int> frequency_map; // stores frequency of each element
     for(int i = 0; i < n; i++) {
         int x; cin >> x;
-        dolls.insert(x);
+        frequency_map[x]++;
     }
 
-    int answer = 0, previous_frequency = 0, current_frequency = 0, previous_element = 0;
-
-    for(auto x: dolls) {
-        if(x == previous_element) continue;
-
-        current_frequency = dolls.count(x);
-        if(current_frequency != 0) {
-            if(x == previous_element + 1) {
-                answer += max(0ll, previous_frequency - current_frequency);
+    int answer = 0, previous_frequency = 0, current_frequency = 0; // current_frequency is the number of dolls being constructed at the moment
+    for(auto x: frequency_map) {
+        if(current_frequency == 0) {
+            current_frequency = x.second;
+        }
+        else {
+            if(x.first == previous_frequency + 1) { // some dolls will have the current number
+                answer += max(0LL, current_frequency - x.second);
+                current_frequency = x.second;
             }
-            else {
-                answer += previous_frequency;
+            else { // new dolls will be constructed starting from this number
+                answer += current_frequency;
+                current_frequency = x.second;
             }
         }
-
-        previous_element = x;
-        previous_frequency = current_frequency;
+        previous_frequency = x.first;
     }
-    if(previous_frequency != 0) {
-        answer += previous_frequency;
+    if(current_frequency != 0) {
+        answer += current_frequency;
     }
-
     cout << answer << endl;
 }
 
