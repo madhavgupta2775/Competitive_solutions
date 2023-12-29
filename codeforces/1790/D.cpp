@@ -1,45 +1,53 @@
 #include <bits/stdc++.h>
 using namespace std;
  
-#define forn(i,a,n) for(long long i = a; i < n; i++)
+#define forn(i,a,n) for(long long i = a; i < n; i++)    
 #define endl "\n" 
 #define int long long
 
-const int MOD2 = 1e9+7;
-const int MOD = 998244353;
-
 void solve() {
-    int n, temp = 0, i = 1, ans = 0; cin >> n;
-    map<int, int> m;
-    forn(i, 0, n){
-        cin >> temp;
-        m[temp]++;
+    int n; cin >> n;
+
+    multiset<int> dolls;
+    for(int i = 0; i < n; i++) {
+        int x; cin >> x;
+        dolls.insert(x);
     }
-    map<int, int>::iterator tt = m.begin(); tt++;
-    for(auto it : m){
-        if(i == 1){
-            ans += it.second;
-        }
-        if(i != m.size()){
-            if(tt->first - it.first != 1){
-                ans += tt->second;tt++;i++; continue;
+
+    int answer = 0, previous_frequency = 0, current_frequency = 0, previous_element = 0;
+
+    for(auto x: dolls) {
+        if(x == previous_element) continue;
+
+        current_frequency = dolls.count(x);
+        if(current_frequency != 0) {
+            if(x == previous_element + 1) {
+                answer += max(0ll, previous_frequency - current_frequency);
             }
-            ans += max(0ll, tt->second - it.second);
-            tt++;
+            else {
+                answer += previous_frequency;
+            }
         }
-        i++;
+
+        previous_element = x;
+        previous_frequency = current_frequency;
     }
-    cout << ans << endl;
-}   
+    if(previous_frequency != 0) {
+        answer += previous_frequency;
+    }
+
+    cout << answer << endl;
+}
+
  
 int32_t main() {
     ios::sync_with_stdio(false);
     cin.tie(0); cout.tie(0);
+    // cout << setprecision(30);
     int T = 1;
     cin >> T;
     for(int I = 1; I <= T; I++) {
-        solve(); 
+        solve();
     }
-    //solve();
     return 0;
 }
