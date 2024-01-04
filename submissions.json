@@ -383,6 +383,22 @@
     ],
     "timestamp": "May/27/2023 18:09"
   },
+  "AC49025798": {
+    "contest_id": "dp",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder\\dp\\I.cpp",
+    "platform": "AtCoder",
+    "problem_index": "I",
+    "problem_name": "Coins",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_i",
+    "submission_id": "AC49025798",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/49025798",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/04/2024 21:14"
+  },
   "AC49035961": {
     "contest_id": "dp",
     "language": "C++ 20 (gcc 12.2)",
