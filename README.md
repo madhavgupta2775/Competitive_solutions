@@ -13,111 +13,112 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-292 | [E - Water Tank](https://atcoder.jp/contests/abc359/tasks/abc359_e) | [C++ 20 (gcc 12.2)](./atcoder/abc359/E.cpp) | `AtCoder` `*500` | Jun/22/2024 19:06 | 
-291 | [C - Tile Distance 2](https://atcoder.jp/contests/abc359/tasks/abc359_c) | [C++ 20 (gcc 12.2)](./atcoder/abc359/C.cpp) | `AtCoder` `*350` | Jun/22/2024 17:58 | 
-290 | [B - Couples](https://atcoder.jp/contests/abc359/tasks/abc359_b) | [C++ 20 (gcc 12.2)](./atcoder/abc359/B.cpp) | `AtCoder` `*150` | Jun/22/2024 17:33 | 
-289 | [A - Count Takahashi](https://atcoder.jp/contests/abc359/tasks/abc359_a) | [C++ 20 (gcc 12.2)](./atcoder/abc359/A.cpp) | `AtCoder` `*100` | Jun/22/2024 17:31 | 
-288 | [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | [C++ 20 (gcc 12.2)](./atcoder/dp/O.cpp) | `AtCoder` `*100` | Jun/22/2024 15:19 | 
-287 | [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n) | [C++ 20 (gcc 12.2)](./atcoder/dp/N.cpp) | `AtCoder` `*100` | Jun/15/2024 21:16 | 
-286 | [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m) | [C++ 20 (gcc 12.2)](./atcoder/dp/M.cpp) | `AtCoder` `*100` | Jun/15/2024 16:25 | 
-285 | [D - Fixing a Binary String](https://codeforces.com/contest/1979/problem/D) | [C++20 (GCC 13-64)](./codeforces/1979/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `hashing` `strings` | Jun/06/2024 23:47 | 
-284 | [C - Earning on Bets](https://codeforces.com/contest/1979/problem/C) | [C++20 (GCC 13-64)](./codeforces/1979/C.cpp) | `binary search` `combinatorics` `constructive algorithms` `number theory` | Jun/06/2024 20:32 | 
-283 | [B - XOR Sequences](https://codeforces.com/contest/1979/problem/B) | [C++20 (GCC 13-64)](./codeforces/1979/B.cpp) | `bitmasks` `greedy` | Jun/06/2024 20:18 | 
-282 | [A - Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | [C++20 (GCC 13-64)](./codeforces/1979/A.cpp) | `brute force` `greedy` `implementation` | Jun/06/2024 20:08 | 
-281 | [B - Increase/Decrease/Copy](https://codeforces.com/contest/1976/problem/B) | [C++20 (GCC 13-64)](./codeforces/1976/B.cpp) | `greedy` `implementation` | May/30/2024 20:18 | 
-280 | [A - Verify Password](https://codeforces.com/contest/1976/problem/A) | [C++20 (GCC 13-64)](./codeforces/1976/A.cpp) | `implementation` `sortings` `strings` | May/30/2024 20:07 | 
-279 | [D - Paint the Tree](https://codeforces.com/contest/1975/problem/D) | [C++20 (GCC 13-64)](./codeforces/1975/D.cpp) | `brute force` `dfs and similar` `dp` `greedy` `shortest paths` `trees` `*1700` | May/28/2024 23:56 | 
-278 | [C - Chamo and Mocha's Array](https://codeforces.com/contest/1975/problem/C) | [C++20 (GCC 13-64)](./codeforces/1975/C.cpp) | `binary search` `brute force` `greedy` `*1200` | May/27/2024 20:07 | 
-277 | [B - 378QAQ and Mocha's Array](https://codeforces.com/contest/1975/problem/B) | [C++20 (GCC 13-64)](./codeforces/1975/B.cpp) | `brute force` `greedy` `math` `sortings` `*1000` | May/27/2024 19:49 | 
-276 | [A - Bazoka and Mocha's Array](https://codeforces.com/contest/1975/problem/A) | [C++20 (GCC 13-64)](./codeforces/1975/A.cpp) | `brute force` `greedy` `implementation` `sortings` `*800` | May/27/2024 19:31 | 
-275 | [G - Money Buys Less Happiness Now ](https://codeforces.com/contest/1974/problem/G) | [C++20 (GCC 13-64)](./codeforces/1974/G.cpp) | `data structures` `greedy` `sortings` `*2000` | May/23/2024 15:57 | 
-274 | [E - Money Buys Happiness](https://codeforces.com/contest/1974/problem/E) | [C++20 (GCC 13-64)](./codeforces/1974/E.cpp) | `dp` `*1800` | May/22/2024 15:05 | 
-273 | [D - Ingenuity-2](https://codeforces.com/contest/1974/problem/D) | [C++20 (GCC 13-64)](./codeforces/1974/D.cpp) | `constructive algorithms` `greedy` `implementation` `*1400` | May/21/2024 19:44 | 
-272 | [C - Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) | [C++20 (GCC 13-64)](./codeforces/1974/C.cpp) | `combinatorics` `data structures` `*1400` | May/21/2024 19:23 | 
-271 | [B - Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | [C++20 (GCC 13-64)](./codeforces/1974/B.cpp) | `implementation` `sortings` `strings` `*800` | May/21/2024 18:59 | 
-270 | [A - Phone Desktop](https://codeforces.com/contest/1974/problem/A) | [C++20 (GCC 13-64)](./codeforces/1974/A.cpp) | `greedy` `math` `*800` | May/21/2024 18:54 | 
-269 | [C - How Does the Rook Move?](https://codeforces.com/contest/1957/problem/C) | [C++20 (GCC 13-64)](./codeforces/1957/C.cpp) | `combinatorics` `dp` `math` | Apr/22/2024 20:22 | 
-268 | [B - Is it stated?](https://codeforces.com/contest/1952/problem/B) | [C++20 (GCC 13-64)](./codeforces/1952/B.cpp) | `strings` | Apr/01/2024 20:34 | 
-267 | [A - Are You a Robot, Again?](https://codeforces.com/contest/1952/problem/A) | [C++20 (GCC 13-64)](./codeforces/1952/A.cpp) | `strings` | Apr/01/2024 20:24 | 
-266 | [J - Unmysterious Language](https://codeforces.com/contest/1812/problem/J) | [Mysterious Language](./codeforces/1812/J.txt) | `*special problem` `constructive algorithms` `strings` | Mar/31/2024 12:18 | 
-265 | [A - Are You a Robot?](https://codeforces.com/contest/1812/problem/A) | [C++20 (GCC 13-64)](./codeforces/1812/A.cpp) | `*special problem` `*special problem` `*special problem` `expression parsing` `strings` | Mar/31/2024 12:02 | 
-264 | [C - Tree Cutting](https://codeforces.com/contest/1946/problem/C) | [C++20 (GCC 13-64)](./codeforces/1946/C.cpp) | `binary search` `dp` `greedy` `implementation` `trees` `*1600` | Mar/23/2024 15:30 | 
-263 | [E - Binary Search](https://codeforces.com/contest/1945/problem/E) | [C++17 (GCC 7-32)](./codeforces/1945/E.cpp) | `binary search` `constructive algorithms` `greedy` `*1700` | Mar/19/2024 14:34 | 
-262 | [C - Left and Right Houses](https://codeforces.com/contest/1945/problem/C) | [C++17 (GCC 7-32)](./codeforces/1945/C.cpp) | `brute force` `*1200` | Mar/19/2024 14:22 | 
-261 | [D - Seraphim the Owl](https://codeforces.com/contest/1945/problem/D) | [C++17 (GCC 7-32)](./codeforces/1945/D.cpp) | `dp` `greedy` `*1300` | Mar/19/2024 13:53 | 
-260 | [B - Fireworks](https://codeforces.com/contest/1945/problem/B) | [C++17 (GCC 7-32)](./codeforces/1945/B.cpp) | `math` `number theory` `*900` | Mar/19/2024 13:44 | 
-259 | [A - Setting up Camp](https://codeforces.com/contest/1945/problem/A) | [C++17 (GCC 7-32)](./codeforces/1945/A.cpp) | `greedy` `math` `*800` | Mar/19/2024 13:40 | 
-258 | [A - Entertainment in MAC](https://codeforces.com/contest/1935/problem/A) | [C++17 (GCC 7-32)](./codeforces/1935/A.cpp) | `constructive algorithms` `strings` `*800` | Mar/19/2024 12:18 | 
-257 | [E - Turtle vs. Rabbit Race: Optimal Trainings](https://codeforces.com/contest/1933/problem/E) | [C++20 (GCC 11-64)](./codeforces/1933/E.cpp) | `binary search` `implementation` `math` `ternary search` `*1500` | Feb/27/2024 21:59 | 
-256 | [D - Turtle Tenacity: Continual Mods](https://codeforces.com/contest/1933/problem/D) | [C++20 (GCC 11-64)](./codeforces/1933/D.cpp) | `constructive algorithms` `greedy` `math` `number theory` `sortings` `*1200` | Feb/27/2024 21:06 | 
-255 | [C - Turtle Fingers: Count the Values of k](https://codeforces.com/contest/1933/problem/C) | [C++20 (GCC 11-64)](./codeforces/1933/C.cpp) | `brute force` `implementation` `math` `number theory` `*1100` | Feb/27/2024 20:51 | 
-254 | [B - Turtle Math: Fast Three Task](https://codeforces.com/contest/1933/problem/B) | [C++20 (GCC 11-64)](./codeforces/1933/B.cpp) | `implementation` `math` `number theory` `*800` | Feb/27/2024 20:11 | 
-253 | [A - Turtle Puzzle: Rearrange and Negate](https://codeforces.com/contest/1933/problem/A) | [C++20 (GCC 11-64)](./codeforces/1933/A.cpp) | `greedy` `math` `sortings` `*800` | Feb/27/2024 20:06 | 
-252 | [A - Kyoya and Colored Balls](https://codeforces.com/contest/553/problem/A) | [C++20 (GCC 11-64)](./codeforces/553/A.cpp) | `combinatorics` `dp` `math` `*1500` | Feb/27/2024 16:13 | 
-251 | [C - George and Job](https://codeforces.com/contest/467/problem/C) | [C++20 (GCC 11-64)](./codeforces/467/C.cpp) | `dp` `implementation` `*1700` | Feb/27/2024 14:52 | 
-250 | [B - Party](https://codeforces.com/contest/23/problem/B) | [GNU C++20 (64)](./codeforces/23/B.cpp) | `constructive algorithms` `graphs` `math` `*1600` | Feb/22/2024 20:26 | 
-249 | [C - Arithmetic Progression](https://codeforces.com/contest/382/problem/C) | [GNU C++20 (64)](./codeforces/382/C.cpp) | `implementation` `sortings` `*1700` | Feb/22/2024 19:33 | 
-248 | [A - Purification](https://codeforces.com/contest/329/problem/A) | [GNU C++20 (64)](./codeforces/329/A.cpp) | `constructive algorithms` `greedy` `*1500` | Feb/22/2024 19:10 | 
-247 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [GNU C++20 (64)](./codeforces/1926/E.cpp) | `binary search` `bitmasks` `data structures` `dp` `implementation` `math` `number theory` | Feb/19/2024 21:22 | 
-246 | [D - Vlad and Division](https://codeforces.com/contest/1926/problem/D) | [GNU C++20 (64)](./codeforces/1926/D.cpp) | `bitmasks` `greedy` | Feb/19/2024 20:44 | 
-245 | [C - Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | [GNU C++20 (64)](./codeforces/1926/C.cpp) | `dp` `implementation` | Feb/19/2024 20:34 | 
-244 | [B - Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) | [GNU C++20 (64)](./codeforces/1926/B.cpp) | `geometry` `implementation` | Feb/19/2024 20:12 | 
-243 | [A - Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | [GNU C++20 (64)](./codeforces/1926/A.cpp) | `implementation` | Feb/19/2024 20:05 | 
-242 | [E - Final Countdown](https://codeforces.com/contest/1932/problem/E) | [GNU C++20 (64)](./codeforces/1932/E.cpp) | `implementation` `math` `number theory` | Feb/18/2024 18:55 | 
-241 | [D - Card Game](https://codeforces.com/contest/1932/problem/D) | [GNU C++20 (64)](./codeforces/1932/D.cpp) | `greedy` `implementation` | Feb/18/2024 18:39 | 
-240 | [C - LR-remainders](https://codeforces.com/contest/1932/problem/C) | [GNU C++20 (64)](./codeforces/1932/C.cpp) | `brute force` `data structures` `implementation` `math` `two pointers` | Feb/18/2024 18:10 | 
-239 | [B - Chaya Calendar](https://codeforces.com/contest/1932/problem/B) | [GNU C++20 (64)](./codeforces/1932/B.cpp) | `number theory` | Feb/18/2024 17:43 | 
-238 | [A - Thorns and Coins](https://codeforces.com/contest/1932/problem/A) | [GNU C++20 (64)](./codeforces/1932/A.cpp) | `dp` `greedy` `implementation` | Feb/18/2024 17:37 | 
-237 | [C - Lexicographically Largest](https://codeforces.com/contest/1930/problem/C) | [GNU C++20 (64)](./codeforces/1930/C.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` `sortings` | Feb/17/2024 23:41 | 
-236 | [D1 - Sum over all Substrings (Easy Version)](https://codeforces.com/contest/1930/problem/D1) | [GNU C++20 (64)](./codeforces/1930/D1.cpp) | `brute force` `dp` `greedy` `strings` | Feb/17/2024 22:20 | 
-235 | [B - Permutation Printing](https://codeforces.com/contest/1930/problem/B) | [GNU C++20 (64)](./codeforces/1930/B.cpp) | `brute force` `constructive algorithms` `math` | Feb/17/2024 20:08 | 
-234 | [A - Maximise The Score](https://codeforces.com/contest/1930/problem/A) | [GNU C++20 (64)](./codeforces/1930/A.cpp) | `greedy` `sortings` | Feb/17/2024 20:06 | 
-233 | [C - Sasha and the Casino](https://codeforces.com/contest/1929/problem/C) | [GNU C++20 (64)](./codeforces/1929/C.cpp) | `binary search` `brute force` `constructive algorithms` `games` `greedy` `math` `*1400` | Feb/15/2024 21:50 | 
-232 | [B - Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B) | [GNU C++20 (64)](./codeforces/1929/B.cpp) | `constructive algorithms` `greedy` `math` `*800` | Feb/15/2024 20:31 | 
-231 | [A - Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A) | [GNU C++20 (64)](./codeforces/1929/A.cpp) | `constructive algorithms` `greedy` `math` `sortings` `*800` | Feb/15/2024 20:06 | 
-230 | [B - Average Superhero Gang Power ](https://codeforces.com/contest/1111/problem/B) | [GNU C++20 (64)](./codeforces/1111/B.cpp) | `brute force` `implementation` `math` `*1700` | Feb/15/2024 01:43 | 
-229 | [C - Hard problem](https://codeforces.com/contest/706/problem/C) | [GNU C++20 (64)](./codeforces/706/C.cpp) | `dp` `strings` `*1600` | Feb/15/2024 00:48 | 
-228 | [F - Chat Screenshots](https://codeforces.com/contest/1931/problem/F) | [GNU C++20 (64)](./codeforces/1931/F.cpp) | `brute force` `combinatorics` `dfs and similar` `graphs` `implementation` | Feb/13/2024 23:00 | 
-227 | [E - Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | [GNU C++20 (64)](./codeforces/1931/E.cpp) | `games` `greedy` `math` | Feb/13/2024 21:17 | 
-226 | [D - Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | [GNU C++20 (64)](./codeforces/1931/D.cpp) | `combinatorics` `implementation` `math` `number theory` | Feb/13/2024 21:00 | 
-225 | [C - Make Equal Again](https://codeforces.com/contest/1931/problem/C) | [GNU C++20 (64)](./codeforces/1931/C.cpp) | `brute force` `greedy` `math` | Feb/13/2024 20:28 | 
-224 | [B - Make Equal](https://codeforces.com/contest/1931/problem/B) | [GNU C++20 (64)](./codeforces/1931/B.cpp) | `greedy` | Feb/13/2024 20:12 | 
-223 | [A - Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | [GNU C++20 (64)](./codeforces/1931/A.cpp) | `brute force` `strings` | Feb/13/2024 20:08 | 
-222 | [C - Riverside Curio](https://codeforces.com/contest/924/problem/C) | [GNU C++20 (64)](./codeforces/924/C.cpp) | `data structures` `dp` `greedy` `*1700` | Feb/12/2024 22:40 | 
-221 | [C - Minimize The Integer](https://codeforces.com/contest/1251/problem/C) | [GNU C++20 (64)](./codeforces/1251/C.cpp) | `greedy` `two pointers` `*1600` | Feb/12/2024 20:52 | 
-220 | [E - Look Back](https://codeforces.com/contest/1883/problem/E) | [GNU C++20 (64)](./codeforces/1883/E.cpp) | `bitmasks` `greedy` `*1700` | Feb/12/2024 19:31 | 
-219 | [C - White Sheet](https://codeforces.com/contest/1216/problem/C) | [GNU C++20 (64)](./codeforces/1216/C.cpp) | `geometry` `math` `*1700` | Feb/12/2024 18:27 | 
-218 | [B - Petya and Exam](https://codeforces.com/contest/832/problem/B) | [GNU C++20 (64)](./codeforces/832/B.cpp) | `implementation` `strings` `*1600` | Feb/12/2024 17:57 | 
-217 | [D - Lonely Mountain Dungeons](https://codeforces.com/contest/1928/problem/D) | [GNU C++20 (64)](./codeforces/1928/D.cpp) | `binary search` `brute force` `data structures` `greedy` `math` `ternary search` | Feb/11/2024 19:58 | 
-216 | [C - Physical Education Lesson](https://codeforces.com/contest/1928/problem/C) | [GNU C++20 (64)](./codeforces/1928/C.cpp) | `brute force` `math` `number theory` | Feb/11/2024 16:58 | 
-215 | [B - Equalize](https://codeforces.com/contest/1928/problem/B) | [GNU C++20 (64)](./codeforces/1928/B.cpp) | `binary search` `greedy` `sortings` `two pointers` | Feb/11/2024 15:16 | 
-214 | [A - Rectangle Cutting](https://codeforces.com/contest/1928/problem/A) | [GNU C++20 (64)](./codeforces/1928/A.cpp) | `geometry` `greedy` `math` | Feb/11/2024 15:09 | 
-213 | [B - T-primes](https://codeforces.com/contest/230/problem/B) | [GNU C++20 (64)](./codeforces/230/B.cpp) | `binary search` `implementation` `math` `number theory` `*1300` | Feb/09/2024 00:26 | 
-212 | [C - Helping the Nature](https://codeforces.com/contest/1700/problem/C) | [GNU C++20 (64)](./codeforces/1700/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1700` | Feb/06/2024 18:24 | 
-211 | [C - Carrying Conundrum](https://codeforces.com/contest/1567/problem/C) | [GNU C++20 (64)](./codeforces/1567/C.cpp) | `bitmasks` `combinatorics` `dp` `math` `*1600` | Feb/06/2024 14:59 | 
-210 | [C - Crazy Diamond](https://codeforces.com/contest/1148/problem/C) | [GNU C++20 (64)](./codeforces/1148/C.cpp) | `constructive algorithms` `sortings` `*1700` | Feb/06/2024 02:56 | 
-209 | [C - Fence Painting](https://codeforces.com/contest/1481/problem/C) | [GNU C++20 (64)](./codeforces/1481/C.cpp) | `brute force` `constructive algorithms` `greedy` `*1600` | Feb/06/2024 01:55 | 
-208 | [A - Satisfying Constraints](https://codeforces.com/contest/1920/problem/A) | [GNU C++20 (64)](./codeforces/1920/A.cpp) | `brute force` `greedy` `math` `*800` | Jan/31/2024 17:53 | 
-207 | [C - XOR-distance](https://codeforces.com/contest/1918/problem/C) | [GNU C++20 (64)](./codeforces/1918/C.cpp) | `bitmasks` `bitmasks` `dp` `greedy` `implementation` `implementation` | Jan/30/2024 20:43 | 
-206 | [B - Minimize Inversions](https://codeforces.com/contest/1918/problem/B) | [GNU C++20 (64)](./codeforces/1918/B.cpp) | `constructive algorithms` `data structures` `implementation` `sortings` | Jan/30/2024 20:12 | 
-205 | [A - Brick Wall](https://codeforces.com/contest/1918/problem/A) | [GNU C++20 (64)](./codeforces/1918/A.cpp) | `constructive algorithms` `greedy` | Jan/30/2024 20:07 | 
-204 | [B - Memory Manager](https://codeforces.com/contest/7/problem/B) | [GNU C++20 (64)](./codeforces/7/B.cpp) | `implementation` `*1600` | Jan/30/2024 18:39 | 
-203 | [A - Alyona and mex](https://codeforces.com/contest/739/problem/A) | [GNU C++20 (64)](./codeforces/739/A.cpp) | `constructive algorithms` `greedy` `*1700` | Jan/29/2024 20:36 | 
-202 | [A - Pavel and barbecue](https://codeforces.com/contest/756/problem/A) | [GNU C++20 (64)](./codeforces/756/A.cpp) | `constructive algorithms` `dfs and similar` `*1700` | Jan/29/2024 19:47 | 
-201 | [B2 - Character Swap (Hard Version)](https://codeforces.com/contest/1243/problem/B2) | [GNU C++20 (64)](./codeforces/1243/B2.cpp) | `strings` `*1600` | Jan/29/2024 16:15 | 
-200 | [E - Construct Matrix](https://codeforces.com/contest/1917/problem/E) | [GNU C++20 (64)](./codeforces/1917/E.cpp) | `constructive algorithms` `math` `*2500` | Jan/28/2024 21:01 | 
-199 | [C - Watering an Array](https://codeforces.com/contest/1917/problem/C) | [GNU C++20 (64)](./codeforces/1917/C.cpp) | `brute force` `greedy` `implementation` `math` `*1600` | Jan/28/2024 19:04 | 
-198 | [C - Did We Get Everything Covered?](https://codeforces.com/contest/1925/problem/C) | [GNU C++20 (64)](./codeforces/1925/C.cpp) | `constructive algorithms` `dp` `greedy` `implementation` `strings` | Jan/28/2024 15:45 | 
-197 | [B - A Balanced Problemset?](https://codeforces.com/contest/1925/problem/B) | [GNU C++20 (64)](./codeforces/1925/B.cpp) | `brute force` `greedy` `math` `number theory` | Jan/28/2024 13:34 | 
-196 | [A - We Got Everything Covered!](https://codeforces.com/contest/1925/problem/A) | [GNU C++20 (64)](./codeforces/1925/A.cpp) | `constructive algorithms` `greedy` `strings` | Jan/28/2024 12:36 | 
-195 | [E - Increasing Subsequences](https://codeforces.com/contest/1922/problem/E) | [GNU C++20 (64)](./codeforces/1922/E.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` `*1800` | Jan/18/2024 22:22 | 
-194 | [C - Closest Cities](https://codeforces.com/contest/1922/problem/C) | [GNU C++20 (64)](./codeforces/1922/C.cpp) | `greedy` `*1300` | Jan/18/2024 21:07 | 
-193 | [B - Forming Triangles](https://codeforces.com/contest/1922/problem/B) | [GNU C++20 (64)](./codeforces/1922/B.cpp) | `combinatorics` `constructive algorithms` `math` `*1200` | Jan/18/2024 20:50 | 
-192 | [A - Tricky Template](https://codeforces.com/contest/1922/problem/A) | [GNU C++20 (64)](./codeforces/1922/A.cpp) | `constructive algorithms` `implementation` `strings` `*800` | Jan/18/2024 20:09 | 
-191 | [E - Eat the Chip](https://codeforces.com/contest/1921/problem/E) | [GNU C++20 (64)](./codeforces/1921/E.cpp) | `brute force` `games` `greedy` `math` `*1600` | Jan/15/2024 22:30 | 
-190 | [C - Sending Messages](https://codeforces.com/contest/1921/problem/C) | [GNU C++20 (64)](./codeforces/1921/C.cpp) | `greedy` `math` `*900` | Jan/15/2024 20:18 | 
-189 | [B - Arranging Cats](https://codeforces.com/contest/1921/problem/B) | [GNU C++20 (64)](./codeforces/1921/B.cpp) | `greedy` `implementation` `*800` | Jan/15/2024 20:13 | 
-188 | [A - Square](https://codeforces.com/contest/1921/problem/A) | [GNU C++20 (64)](./codeforces/1921/A.cpp) | `greedy` `math` `*800` | Jan/15/2024 20:08 | 
+293 | [E - Water Tank](https://atcoder.jp/contests/abc359/tasks/abc359_e) | [C++ 20 (gcc 12.2)](./atcoder/abc359/E.cpp) | `AtCoder` `*500` | Jun/22/2024 19:06 | 
+292 | [C - Tile Distance 2](https://atcoder.jp/contests/abc359/tasks/abc359_c) | [C++ 20 (gcc 12.2)](./atcoder/abc359/C.cpp) | `AtCoder` `*350` | Jun/22/2024 17:58 | 
+291 | [B - Couples](https://atcoder.jp/contests/abc359/tasks/abc359_b) | [C++ 20 (gcc 12.2)](./atcoder/abc359/B.cpp) | `AtCoder` `*150` | Jun/22/2024 17:33 | 
+290 | [A - Count Takahashi](https://atcoder.jp/contests/abc359/tasks/abc359_a) | [C++ 20 (gcc 12.2)](./atcoder/abc359/A.cpp) | `AtCoder` `*100` | Jun/22/2024 17:31 | 
+289 | [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | [C++ 20 (gcc 12.2)](./atcoder/dp/O.cpp) | `AtCoder` `*100` | Jun/22/2024 15:19 | 
+288 | [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n) | [C++ 20 (gcc 12.2)](./atcoder/dp/N.cpp) | `AtCoder` `*100` | Jun/15/2024 21:16 | 
+287 | [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m) | [C++ 20 (gcc 12.2)](./atcoder/dp/M.cpp) | `AtCoder` `*100` | Jun/15/2024 16:25 | 
+286 | [D - Fixing a Binary String](https://codeforces.com/contest/1979/problem/D) | [C++20 (GCC 13-64)](./codeforces/1979/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `hashing` `strings` | Jun/06/2024 23:47 | 
+285 | [C - Earning on Bets](https://codeforces.com/contest/1979/problem/C) | [C++20 (GCC 13-64)](./codeforces/1979/C.cpp) | `binary search` `combinatorics` `constructive algorithms` `number theory` | Jun/06/2024 20:32 | 
+284 | [B - XOR Sequences](https://codeforces.com/contest/1979/problem/B) | [C++20 (GCC 13-64)](./codeforces/1979/B.cpp) | `bitmasks` `greedy` | Jun/06/2024 20:18 | 
+283 | [A - Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | [C++20 (GCC 13-64)](./codeforces/1979/A.cpp) | `brute force` `greedy` `implementation` | Jun/06/2024 20:08 | 
+282 | [B - Increase/Decrease/Copy](https://codeforces.com/contest/1976/problem/B) | [C++20 (GCC 13-64)](./codeforces/1976/B.cpp) | `greedy` `implementation` | May/30/2024 20:18 | 
+281 | [A - Verify Password](https://codeforces.com/contest/1976/problem/A) | [C++20 (GCC 13-64)](./codeforces/1976/A.cpp) | `implementation` `sortings` `strings` | May/30/2024 20:07 | 
+280 | [D - Paint the Tree](https://codeforces.com/contest/1975/problem/D) | [C++20 (GCC 13-64)](./codeforces/1975/D.cpp) | `brute force` `dfs and similar` `dp` `greedy` `shortest paths` `trees` `*1700` | May/28/2024 23:56 | 
+279 | [C - Chamo and Mocha's Array](https://codeforces.com/contest/1975/problem/C) | [C++20 (GCC 13-64)](./codeforces/1975/C.cpp) | `binary search` `brute force` `greedy` `*1200` | May/27/2024 20:07 | 
+278 | [B - 378QAQ and Mocha's Array](https://codeforces.com/contest/1975/problem/B) | [C++20 (GCC 13-64)](./codeforces/1975/B.cpp) | `brute force` `greedy` `math` `sortings` `*1000` | May/27/2024 19:49 | 
+277 | [A - Bazoka and Mocha's Array](https://codeforces.com/contest/1975/problem/A) | [C++20 (GCC 13-64)](./codeforces/1975/A.cpp) | `brute force` `greedy` `implementation` `sortings` `*800` | May/27/2024 19:31 | 
+276 | [G - Money Buys Less Happiness Now ](https://codeforces.com/contest/1974/problem/G) | [C++20 (GCC 13-64)](./codeforces/1974/G.cpp) | `data structures` `greedy` `sortings` `*2000` | May/23/2024 15:57 | 
+275 | [E - Money Buys Happiness](https://codeforces.com/contest/1974/problem/E) | [C++20 (GCC 13-64)](./codeforces/1974/E.cpp) | `dp` `*1800` | May/22/2024 15:05 | 
+274 | [D - Ingenuity-2](https://codeforces.com/contest/1974/problem/D) | [C++20 (GCC 13-64)](./codeforces/1974/D.cpp) | `constructive algorithms` `greedy` `implementation` `*1400` | May/21/2024 19:44 | 
+273 | [C - Beautiful Triple Pairs](https://codeforces.com/contest/1974/problem/C) | [C++20 (GCC 13-64)](./codeforces/1974/C.cpp) | `combinatorics` `data structures` `*1400` | May/21/2024 19:23 | 
+272 | [B - Symmetric Encoding](https://codeforces.com/contest/1974/problem/B) | [C++20 (GCC 13-64)](./codeforces/1974/B.cpp) | `implementation` `sortings` `strings` `*800` | May/21/2024 18:59 | 
+271 | [A - Phone Desktop](https://codeforces.com/contest/1974/problem/A) | [C++20 (GCC 13-64)](./codeforces/1974/A.cpp) | `greedy` `math` `*800` | May/21/2024 18:54 | 
+270 | [C - How Does the Rook Move?](https://codeforces.com/contest/1957/problem/C) | [C++20 (GCC 13-64)](./codeforces/1957/C.cpp) | `combinatorics` `dp` `math` | Apr/22/2024 20:22 | 
+269 | [B - Is it stated?](https://codeforces.com/contest/1952/problem/B) | [C++20 (GCC 13-64)](./codeforces/1952/B.cpp) | `strings` | Apr/01/2024 20:34 | 
+268 | [A - Are You a Robot, Again?](https://codeforces.com/contest/1952/problem/A) | [C++20 (GCC 13-64)](./codeforces/1952/A.cpp) | `strings` | Apr/01/2024 20:24 | 
+267 | [J - Unmysterious Language](https://codeforces.com/contest/1812/problem/J) | [Mysterious Language](./codeforces/1812/J.txt) | `*special problem` `constructive algorithms` `strings` | Mar/31/2024 12:18 | 
+266 | [A - Are You a Robot?](https://codeforces.com/contest/1812/problem/A) | [C++20 (GCC 13-64)](./codeforces/1812/A.cpp) | `*special problem` `*special problem` `*special problem` `expression parsing` `strings` | Mar/31/2024 12:02 | 
+265 | [C - Tree Cutting](https://codeforces.com/contest/1946/problem/C) | [C++20 (GCC 13-64)](./codeforces/1946/C.cpp) | `binary search` `dp` `greedy` `implementation` `trees` `*1600` | Mar/23/2024 15:30 | 
+264 | [E - Binary Search](https://codeforces.com/contest/1945/problem/E) | [C++17 (GCC 7-32)](./codeforces/1945/E.cpp) | `binary search` `constructive algorithms` `greedy` `*1700` | Mar/19/2024 14:34 | 
+263 | [C - Left and Right Houses](https://codeforces.com/contest/1945/problem/C) | [C++17 (GCC 7-32)](./codeforces/1945/C.cpp) | `brute force` `*1200` | Mar/19/2024 14:22 | 
+262 | [D - Seraphim the Owl](https://codeforces.com/contest/1945/problem/D) | [C++17 (GCC 7-32)](./codeforces/1945/D.cpp) | `dp` `greedy` `*1300` | Mar/19/2024 13:53 | 
+261 | [B - Fireworks](https://codeforces.com/contest/1945/problem/B) | [C++17 (GCC 7-32)](./codeforces/1945/B.cpp) | `math` `number theory` `*900` | Mar/19/2024 13:44 | 
+260 | [A - Setting up Camp](https://codeforces.com/contest/1945/problem/A) | [C++17 (GCC 7-32)](./codeforces/1945/A.cpp) | `greedy` `math` `*800` | Mar/19/2024 13:40 | 
+259 | [A - Entertainment in MAC](https://codeforces.com/contest/1935/problem/A) | [C++17 (GCC 7-32)](./codeforces/1935/A.cpp) | `constructive algorithms` `strings` `*800` | Mar/19/2024 12:18 | 
+258 | [E - Turtle vs. Rabbit Race: Optimal Trainings](https://codeforces.com/contest/1933/problem/E) | [C++20 (GCC 11-64)](./codeforces/1933/E.cpp) | `binary search` `implementation` `math` `ternary search` `*1500` | Feb/27/2024 21:59 | 
+257 | [D - Turtle Tenacity: Continual Mods](https://codeforces.com/contest/1933/problem/D) | [C++20 (GCC 11-64)](./codeforces/1933/D.cpp) | `constructive algorithms` `greedy` `math` `number theory` `sortings` `*1200` | Feb/27/2024 21:06 | 
+256 | [C - Turtle Fingers: Count the Values of k](https://codeforces.com/contest/1933/problem/C) | [C++20 (GCC 11-64)](./codeforces/1933/C.cpp) | `brute force` `implementation` `math` `number theory` `*1100` | Feb/27/2024 20:51 | 
+255 | [B - Turtle Math: Fast Three Task](https://codeforces.com/contest/1933/problem/B) | [C++20 (GCC 11-64)](./codeforces/1933/B.cpp) | `implementation` `math` `number theory` `*800` | Feb/27/2024 20:11 | 
+254 | [A - Turtle Puzzle: Rearrange and Negate](https://codeforces.com/contest/1933/problem/A) | [C++20 (GCC 11-64)](./codeforces/1933/A.cpp) | `greedy` `math` `sortings` `*800` | Feb/27/2024 20:06 | 
+253 | [A - Kyoya and Colored Balls](https://codeforces.com/contest/553/problem/A) | [C++20 (GCC 11-64)](./codeforces/553/A.cpp) | `combinatorics` `dp` `math` `*1500` | Feb/27/2024 16:13 | 
+252 | [C - George and Job](https://codeforces.com/contest/467/problem/C) | [C++20 (GCC 11-64)](./codeforces/467/C.cpp) | `dp` `implementation` `*1700` | Feb/27/2024 14:52 | 
+251 | [B - Party](https://codeforces.com/contest/23/problem/B) | [GNU C++20 (64)](./codeforces/23/B.cpp) | `constructive algorithms` `graphs` `math` `*1600` | Feb/22/2024 20:26 | 
+250 | [C - Arithmetic Progression](https://codeforces.com/contest/382/problem/C) | [GNU C++20 (64)](./codeforces/382/C.cpp) | `implementation` `sortings` `*1700` | Feb/22/2024 19:33 | 
+249 | [A - Purification](https://codeforces.com/contest/329/problem/A) | [GNU C++20 (64)](./codeforces/329/A.cpp) | `constructive algorithms` `greedy` `*1500` | Feb/22/2024 19:10 | 
+248 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [GNU C++20 (64)](./codeforces/1926/E.cpp) | `binary search` `bitmasks` `data structures` `dp` `implementation` `math` `number theory` | Feb/19/2024 21:22 | 
+247 | [D - Vlad and Division](https://codeforces.com/contest/1926/problem/D) | [GNU C++20 (64)](./codeforces/1926/D.cpp) | `bitmasks` `greedy` | Feb/19/2024 20:44 | 
+246 | [C - Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | [GNU C++20 (64)](./codeforces/1926/C.cpp) | `dp` `implementation` | Feb/19/2024 20:34 | 
+245 | [B - Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) | [GNU C++20 (64)](./codeforces/1926/B.cpp) | `geometry` `implementation` | Feb/19/2024 20:12 | 
+244 | [A - Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | [GNU C++20 (64)](./codeforces/1926/A.cpp) | `implementation` | Feb/19/2024 20:05 | 
+243 | [E - Final Countdown](https://codeforces.com/contest/1932/problem/E) | [GNU C++20 (64)](./codeforces/1932/E.cpp) | `implementation` `math` `number theory` | Feb/18/2024 18:55 | 
+242 | [D - Card Game](https://codeforces.com/contest/1932/problem/D) | [GNU C++20 (64)](./codeforces/1932/D.cpp) | `greedy` `implementation` | Feb/18/2024 18:39 | 
+241 | [C - LR-remainders](https://codeforces.com/contest/1932/problem/C) | [GNU C++20 (64)](./codeforces/1932/C.cpp) | `brute force` `data structures` `implementation` `math` `two pointers` | Feb/18/2024 18:10 | 
+240 | [B - Chaya Calendar](https://codeforces.com/contest/1932/problem/B) | [GNU C++20 (64)](./codeforces/1932/B.cpp) | `number theory` | Feb/18/2024 17:43 | 
+239 | [A - Thorns and Coins](https://codeforces.com/contest/1932/problem/A) | [GNU C++20 (64)](./codeforces/1932/A.cpp) | `dp` `greedy` `implementation` | Feb/18/2024 17:37 | 
+238 | [C - Lexicographically Largest](https://codeforces.com/contest/1930/problem/C) | [GNU C++20 (64)](./codeforces/1930/C.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` `sortings` | Feb/17/2024 23:41 | 
+237 | [D1 - Sum over all Substrings (Easy Version)](https://codeforces.com/contest/1930/problem/D1) | [GNU C++20 (64)](./codeforces/1930/D1.cpp) | `brute force` `dp` `greedy` `strings` | Feb/17/2024 22:20 | 
+236 | [B - Permutation Printing](https://codeforces.com/contest/1930/problem/B) | [GNU C++20 (64)](./codeforces/1930/B.cpp) | `brute force` `constructive algorithms` `math` | Feb/17/2024 20:08 | 
+235 | [A - Maximise The Score](https://codeforces.com/contest/1930/problem/A) | [GNU C++20 (64)](./codeforces/1930/A.cpp) | `greedy` `sortings` | Feb/17/2024 20:06 | 
+234 | [C - Sasha and the Casino](https://codeforces.com/contest/1929/problem/C) | [GNU C++20 (64)](./codeforces/1929/C.cpp) | `binary search` `brute force` `constructive algorithms` `games` `greedy` `math` `*1400` | Feb/15/2024 21:50 | 
+233 | [B - Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B) | [GNU C++20 (64)](./codeforces/1929/B.cpp) | `constructive algorithms` `greedy` `math` `*800` | Feb/15/2024 20:31 | 
+232 | [A - Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A) | [GNU C++20 (64)](./codeforces/1929/A.cpp) | `constructive algorithms` `greedy` `math` `sortings` `*800` | Feb/15/2024 20:06 | 
+231 | [B - Average Superhero Gang Power ](https://codeforces.com/contest/1111/problem/B) | [GNU C++20 (64)](./codeforces/1111/B.cpp) | `brute force` `implementation` `math` `*1700` | Feb/15/2024 01:43 | 
+230 | [C - Hard problem](https://codeforces.com/contest/706/problem/C) | [GNU C++20 (64)](./codeforces/706/C.cpp) | `dp` `strings` `*1600` | Feb/15/2024 00:48 | 
+229 | [F - Chat Screenshots](https://codeforces.com/contest/1931/problem/F) | [GNU C++20 (64)](./codeforces/1931/F.cpp) | `brute force` `combinatorics` `dfs and similar` `graphs` `implementation` | Feb/13/2024 23:00 | 
+228 | [E - Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | [GNU C++20 (64)](./codeforces/1931/E.cpp) | `games` `greedy` `math` | Feb/13/2024 21:17 | 
+227 | [D - Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | [GNU C++20 (64)](./codeforces/1931/D.cpp) | `combinatorics` `implementation` `math` `number theory` | Feb/13/2024 21:00 | 
+226 | [C - Make Equal Again](https://codeforces.com/contest/1931/problem/C) | [GNU C++20 (64)](./codeforces/1931/C.cpp) | `brute force` `greedy` `math` | Feb/13/2024 20:28 | 
+225 | [B - Make Equal](https://codeforces.com/contest/1931/problem/B) | [GNU C++20 (64)](./codeforces/1931/B.cpp) | `greedy` | Feb/13/2024 20:12 | 
+224 | [A - Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | [GNU C++20 (64)](./codeforces/1931/A.cpp) | `brute force` `strings` | Feb/13/2024 20:08 | 
+223 | [C - Riverside Curio](https://codeforces.com/contest/924/problem/C) | [GNU C++20 (64)](./codeforces/924/C.cpp) | `data structures` `dp` `greedy` `*1700` | Feb/12/2024 22:40 | 
+222 | [C - Minimize The Integer](https://codeforces.com/contest/1251/problem/C) | [GNU C++20 (64)](./codeforces/1251/C.cpp) | `greedy` `two pointers` `*1600` | Feb/12/2024 20:52 | 
+221 | [E - Look Back](https://codeforces.com/contest/1883/problem/E) | [GNU C++20 (64)](./codeforces/1883/E.cpp) | `bitmasks` `greedy` `*1700` | Feb/12/2024 19:31 | 
+220 | [C - White Sheet](https://codeforces.com/contest/1216/problem/C) | [GNU C++20 (64)](./codeforces/1216/C.cpp) | `geometry` `math` `*1700` | Feb/12/2024 18:27 | 
+219 | [B - Petya and Exam](https://codeforces.com/contest/832/problem/B) | [GNU C++20 (64)](./codeforces/832/B.cpp) | `implementation` `strings` `*1600` | Feb/12/2024 17:57 | 
+218 | [D - Lonely Mountain Dungeons](https://codeforces.com/contest/1928/problem/D) | [GNU C++20 (64)](./codeforces/1928/D.cpp) | `binary search` `brute force` `data structures` `greedy` `math` `ternary search` | Feb/11/2024 19:58 | 
+217 | [C - Physical Education Lesson](https://codeforces.com/contest/1928/problem/C) | [GNU C++20 (64)](./codeforces/1928/C.cpp) | `brute force` `math` `number theory` | Feb/11/2024 16:58 | 
+216 | [B - Equalize](https://codeforces.com/contest/1928/problem/B) | [GNU C++20 (64)](./codeforces/1928/B.cpp) | `binary search` `greedy` `sortings` `two pointers` | Feb/11/2024 15:16 | 
+215 | [A - Rectangle Cutting](https://codeforces.com/contest/1928/problem/A) | [GNU C++20 (64)](./codeforces/1928/A.cpp) | `geometry` `greedy` `math` | Feb/11/2024 15:09 | 
+214 | [B - T-primes](https://codeforces.com/contest/230/problem/B) | [GNU C++20 (64)](./codeforces/230/B.cpp) | `binary search` `implementation` `math` `number theory` `*1300` | Feb/09/2024 00:26 | 
+213 | [C - Helping the Nature](https://codeforces.com/contest/1700/problem/C) | [GNU C++20 (64)](./codeforces/1700/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1700` | Feb/06/2024 18:24 | 
+212 | [C - Carrying Conundrum](https://codeforces.com/contest/1567/problem/C) | [GNU C++20 (64)](./codeforces/1567/C.cpp) | `bitmasks` `combinatorics` `dp` `math` `*1600` | Feb/06/2024 14:59 | 
+211 | [C - Crazy Diamond](https://codeforces.com/contest/1148/problem/C) | [GNU C++20 (64)](./codeforces/1148/C.cpp) | `constructive algorithms` `sortings` `*1700` | Feb/06/2024 02:56 | 
+210 | [C - Fence Painting](https://codeforces.com/contest/1481/problem/C) | [GNU C++20 (64)](./codeforces/1481/C.cpp) | `brute force` `constructive algorithms` `greedy` `*1600` | Feb/06/2024 01:55 | 
+209 | [A - Satisfying Constraints](https://codeforces.com/contest/1920/problem/A) | [GNU C++20 (64)](./codeforces/1920/A.cpp) | `brute force` `greedy` `math` `*800` | Jan/31/2024 17:53 | 
+208 | [C - XOR-distance](https://codeforces.com/contest/1918/problem/C) | [GNU C++20 (64)](./codeforces/1918/C.cpp) | `bitmasks` `bitmasks` `dp` `greedy` `implementation` `implementation` | Jan/30/2024 20:43 | 
+207 | [B - Minimize Inversions](https://codeforces.com/contest/1918/problem/B) | [GNU C++20 (64)](./codeforces/1918/B.cpp) | `constructive algorithms` `data structures` `implementation` `sortings` | Jan/30/2024 20:12 | 
+206 | [A - Brick Wall](https://codeforces.com/contest/1918/problem/A) | [GNU C++20 (64)](./codeforces/1918/A.cpp) | `constructive algorithms` `greedy` | Jan/30/2024 20:07 | 
+205 | [B - Memory Manager](https://codeforces.com/contest/7/problem/B) | [GNU C++20 (64)](./codeforces/7/B.cpp) | `implementation` `*1600` | Jan/30/2024 18:39 | 
+204 | [A - Alyona and mex](https://codeforces.com/contest/739/problem/A) | [GNU C++20 (64)](./codeforces/739/A.cpp) | `constructive algorithms` `greedy` `*1700` | Jan/29/2024 20:36 | 
+203 | [A - Pavel and barbecue](https://codeforces.com/contest/756/problem/A) | [GNU C++20 (64)](./codeforces/756/A.cpp) | `constructive algorithms` `dfs and similar` `*1700` | Jan/29/2024 19:47 | 
+202 | [B2 - Character Swap (Hard Version)](https://codeforces.com/contest/1243/problem/B2) | [GNU C++20 (64)](./codeforces/1243/B2.cpp) | `strings` `*1600` | Jan/29/2024 16:15 | 
+201 | [E - Construct Matrix](https://codeforces.com/contest/1917/problem/E) | [GNU C++20 (64)](./codeforces/1917/E.cpp) | `constructive algorithms` `math` `*2500` | Jan/28/2024 21:01 | 
+200 | [C - Watering an Array](https://codeforces.com/contest/1917/problem/C) | [GNU C++20 (64)](./codeforces/1917/C.cpp) | `brute force` `greedy` `implementation` `math` `*1600` | Jan/28/2024 19:04 | 
+199 | [C - Did We Get Everything Covered?](https://codeforces.com/contest/1925/problem/C) | [GNU C++20 (64)](./codeforces/1925/C.cpp) | `constructive algorithms` `dp` `greedy` `implementation` `strings` | Jan/28/2024 15:45 | 
+198 | [B - A Balanced Problemset?](https://codeforces.com/contest/1925/problem/B) | [GNU C++20 (64)](./codeforces/1925/B.cpp) | `brute force` `greedy` `math` `number theory` | Jan/28/2024 13:34 | 
+197 | [A - We Got Everything Covered!](https://codeforces.com/contest/1925/problem/A) | [GNU C++20 (64)](./codeforces/1925/A.cpp) | `constructive algorithms` `greedy` `strings` | Jan/28/2024 12:36 | 
+196 | [E - Increasing Subsequences](https://codeforces.com/contest/1922/problem/E) | [GNU C++20 (64)](./codeforces/1922/E.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` `*1800` | Jan/18/2024 22:22 | 
+195 | [C - Closest Cities](https://codeforces.com/contest/1922/problem/C) | [GNU C++20 (64)](./codeforces/1922/C.cpp) | `greedy` `*1300` | Jan/18/2024 21:07 | 
+194 | [B - Forming Triangles](https://codeforces.com/contest/1922/problem/B) | [GNU C++20 (64)](./codeforces/1922/B.cpp) | `combinatorics` `constructive algorithms` `math` `*1200` | Jan/18/2024 20:50 | 
+193 | [A - Tricky Template](https://codeforces.com/contest/1922/problem/A) | [GNU C++20 (64)](./codeforces/1922/A.cpp) | `constructive algorithms` `implementation` `strings` `*800` | Jan/18/2024 20:09 | 
+192 | [E - Eat the Chip](https://codeforces.com/contest/1921/problem/E) | [GNU C++20 (64)](./codeforces/1921/E.cpp) | `brute force` `games` `greedy` `math` `*1600` | Jan/15/2024 22:30 | 
+191 | [C - Sending Messages](https://codeforces.com/contest/1921/problem/C) | [GNU C++20 (64)](./codeforces/1921/C.cpp) | `greedy` `math` `*900` | Jan/15/2024 20:18 | 
+190 | [B - Arranging Cats](https://codeforces.com/contest/1921/problem/B) | [GNU C++20 (64)](./codeforces/1921/B.cpp) | `greedy` `implementation` `*800` | Jan/15/2024 20:13 | 
+189 | [A - Square](https://codeforces.com/contest/1921/problem/A) | [GNU C++20 (64)](./codeforces/1921/A.cpp) | `greedy` `math` `*800` | Jan/15/2024 20:08 | 
+188 | [L - Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | [C++ 20 (gcc 12.2)](./atcoder/dp/L.cpp) | `AtCoder` `*100` | Jan/07/2024 14:36 | 
 187 | [C - Training Before the Olympiad](https://codeforces.com/contest/1916/problem/C) | [GNU C++20 (64)](./codeforces/1916/C.cpp) | `constructive algorithms` `games` `greedy` `implementation` `math` `*1200` | Dec/30/2023 21:29 | 
 186 | [B - Two Divisors](https://codeforces.com/contest/1916/problem/B) | [GNU C++20 (64)](./codeforces/1916/B.cpp) | `constructive algorithms` `math` `number theory` `*900` | Dec/30/2023 20:39 | 
 185 | [A - 2023](https://codeforces.com/contest/1916/problem/A) | [GNU C++20 (64)](./codeforces/1916/A.cpp) | `constructive algorithms` `implementation` `math` `number theory` `*800` | Dec/30/2023 20:25 | 
