@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-194 | [E - Increasing Subsequences](https://codeforces.com/contest/1922/problem/E) | [GNU C++20 (64)](./codeforces/1922/E.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` `*1800` | Jan/18/2024 22:22 | 
-193 | [C - Closest Cities](https://codeforces.com/contest/1922/problem/C) | [GNU C++20 (64)](./codeforces/1922/C.cpp) | `greedy` `*1300` | Jan/18/2024 21:07 | 
-192 | [B - Forming Triangles](https://codeforces.com/contest/1922/problem/B) | [GNU C++20 (64)](./codeforces/1922/B.cpp) | `combinatorics` `constructive algorithms` `math` `*1200` | Jan/18/2024 20:50 | 
-191 | [A - Tricky Template](https://codeforces.com/contest/1922/problem/A) | [GNU C++20 (64)](./codeforces/1922/A.cpp) | `constructive algorithms` `implementation` `strings` `*800` | Jan/18/2024 20:09 | 
-190 | [E - Eat the Chip](https://codeforces.com/contest/1921/problem/E) | [GNU C++20 (64)](./codeforces/1921/E.cpp) | `brute force` `games` `greedy` `math` `*1600` | Jan/15/2024 22:30 | 
-189 | [C - Sending Messages](https://codeforces.com/contest/1921/problem/C) | [GNU C++20 (64)](./codeforces/1921/C.cpp) | `greedy` `math` `*900` | Jan/15/2024 20:18 | 
-188 | [B - Arranging Cats](https://codeforces.com/contest/1921/problem/B) | [GNU C++20 (64)](./codeforces/1921/B.cpp) | `greedy` `implementation` `*800` | Jan/15/2024 20:13 | 
+195 | [E - Increasing Subsequences](https://codeforces.com/contest/1922/problem/E) | [GNU C++20 (64)](./codeforces/1922/E.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` `*1800` | Jan/18/2024 22:22 | 
+194 | [C - Closest Cities](https://codeforces.com/contest/1922/problem/C) | [GNU C++20 (64)](./codeforces/1922/C.cpp) | `greedy` `*1300` | Jan/18/2024 21:07 | 
+193 | [B - Forming Triangles](https://codeforces.com/contest/1922/problem/B) | [GNU C++20 (64)](./codeforces/1922/B.cpp) | `combinatorics` `constructive algorithms` `math` `*1200` | Jan/18/2024 20:50 | 
+192 | [A - Tricky Template](https://codeforces.com/contest/1922/problem/A) | [GNU C++20 (64)](./codeforces/1922/A.cpp) | `constructive algorithms` `implementation` `strings` `*800` | Jan/18/2024 20:09 | 
+191 | [E - Eat the Chip](https://codeforces.com/contest/1921/problem/E) | [GNU C++20 (64)](./codeforces/1921/E.cpp) | `brute force` `games` `greedy` `math` `*1600` | Jan/15/2024 22:30 | 
+190 | [C - Sending Messages](https://codeforces.com/contest/1921/problem/C) | [GNU C++20 (64)](./codeforces/1921/C.cpp) | `greedy` `math` `*900` | Jan/15/2024 20:18 | 
+189 | [B - Arranging Cats](https://codeforces.com/contest/1921/problem/B) | [GNU C++20 (64)](./codeforces/1921/B.cpp) | `greedy` `implementation` `*800` | Jan/15/2024 20:13 | 
+188 | [A - Square](https://codeforces.com/contest/1921/problem/A) | [GNU C++20 (64)](./codeforces/1921/A.cpp) | `greedy` `math` `*800` | Jan/15/2024 20:08 | 
 187 | [C - Training Before the Olympiad](https://codeforces.com/contest/1916/problem/C) | [GNU C++20 (64)](./codeforces/1916/C.cpp) | `constructive algorithms` `games` `greedy` `implementation` `math` `*1200` | Dec/30/2023 21:29 | 
 186 | [B - Two Divisors](https://codeforces.com/contest/1916/problem/B) | [GNU C++20 (64)](./codeforces/1916/B.cpp) | `constructive algorithms` `math` `number theory` `*900` | Dec/30/2023 20:39 | 
 185 | [A - 2023](https://codeforces.com/contest/1916/problem/A) | [GNU C++20 (64)](./codeforces/1916/A.cpp) | `constructive algorithms` `implementation` `math` `number theory` `*800` | Dec/30/2023 20:25 | 
