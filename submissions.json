@@ -3290,6 +3290,25 @@
     ],
     "timestamp": "Dec/30/2023 21:29"
   },
+  "CF241835889": {
+    "contest_id": 1921,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1921\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Eat the Chip",
+    "problem_url": "https://codeforces.com/contest/1921/problem/E",
+    "submission_id": "CF241835889",
+    "submission_url": "https://codeforces.com/contest/1921/submission/241835889",
+    "tags": [
+      "brute force",
+      "games",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jan/15/2024 22:30"
+  },
   "CF242219787": {
     "contest_id": 1922,
     "language": "GNU C++20 (64)",
