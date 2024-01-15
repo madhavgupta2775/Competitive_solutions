@@ -3290,6 +3290,23 @@
     ],
     "timestamp": "Dec/30/2023 21:29"
   },
+  "CF241715556": {
+    "contest_id": 1921,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1921\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Arranging Cats",
+    "problem_url": "https://codeforces.com/contest/1921/problem/B",
+    "submission_id": "CF241715556",
+    "submission_url": "https://codeforces.com/contest/1921/submission/241715556",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/15/2024 20:13"
+  },
   "CF241725574": {
     "contest_id": 1921,
     "language": "GNU C++20 (64)",
