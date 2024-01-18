@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+188 | [E - Increasing Subsequences](https://codeforces.com/contest/1922/problem/E) | [GNU C++20 (64)](./codeforces/1922/E.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` `*1800` | Jan/18/2024 22:22 | 
 187 | [C - Training Before the Olympiad](https://codeforces.com/contest/1916/problem/C) | [GNU C++20 (64)](./codeforces/1916/C.cpp) | `constructive algorithms` `games` `greedy` `implementation` `math` `*1200` | Dec/30/2023 21:29 | 
 186 | [B - Two Divisors](https://codeforces.com/contest/1916/problem/B) | [GNU C++20 (64)](./codeforces/1916/B.cpp) | `constructive algorithms` `math` `number theory` `*900` | Dec/30/2023 20:39 | 
 185 | [A - 2023](https://codeforces.com/contest/1916/problem/A) | [GNU C++20 (64)](./codeforces/1916/A.cpp) | `constructive algorithms` `implementation` `math` `number theory` `*800` | Dec/30/2023 20:25 | 
