@@ -3290,6 +3290,24 @@
     ],
     "timestamp": "Dec/30/2023 21:29"
   },
+  "CF242219787": {
+    "contest_id": 1922,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1922\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tricky Template",
+    "problem_url": "https://codeforces.com/contest/1922/problem/A",
+    "submission_id": "CF242219787",
+    "submission_url": "https://codeforces.com/contest/1922/submission/242219787",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jan/18/2024 20:09"
+  },
   "CF242261616": {
     "contest_id": 1922,
     "language": "GNU C++20 (64)",
