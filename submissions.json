@@ -3431,6 +3431,23 @@
     ],
     "timestamp": "Jan/18/2024 22:22"
   },
+  "CF243721687": {
+    "contest_id": 1925,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1925\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "We Got Everything Covered!",
+    "problem_url": "https://codeforces.com/contest/1925/problem/A",
+    "submission_id": "CF243721687",
+    "submission_url": "https://codeforces.com/contest/1925/submission/243721687",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ],
+    "timestamp": "Jan/28/2024 12:36"
+  },
   "CF243728228": {
     "contest_id": 1925,
     "language": "GNU C++20 (64)",
