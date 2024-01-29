@@ -21,11 +21,14 @@ void solve() {
     }
     int comps = 0;
     vector<bool> vis(n, false);
+    vector<int> max_elem;
     forn(i, 0, n) {
         if(!vis[i]) {
             int j = i;
             comps++;
+            max_elem.push_back(p[j]);
             while(!vis[j]) {
+                max_elem.back() = max(max_elem.back(), p[j]);
                 vis[j] = true;
                 j = p[j];
             }
