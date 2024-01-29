@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+199 | [B2 - Character Swap (Hard Version)](https://codeforces.com/contest/1243/problem/B2) | [GNU C++20 (64)](./codeforces/1243/B2.cpp) | `strings` `*1600` | Jan/29/2024 16:15 | 
 198 | [C - Did We Get Everything Covered?](https://codeforces.com/contest/1925/problem/C) | [GNU C++20 (64)](./codeforces/1925/C.cpp) | `constructive algorithms` `dp` `greedy` `implementation` `strings` | Jan/28/2024 15:45 | 
 197 | [B - A Balanced Problemset?](https://codeforces.com/contest/1925/problem/B) | [GNU C++20 (64)](./codeforces/1925/B.cpp) | `brute force` `greedy` `math` `number theory` | Jan/28/2024 13:34 | 
 196 | [A - We Got Everything Covered!](https://codeforces.com/contest/1925/problem/A) | [GNU C++20 (64)](./codeforces/1925/A.cpp) | `constructive algorithms` `greedy` `strings` | Jan/28/2024 12:36 | 
