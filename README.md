@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+202 | [A - Alyona and mex](https://codeforces.com/contest/739/problem/A) | [GNU C++20 (64)](./codeforces/739/A.cpp) | `constructive algorithms` `greedy` `*1700` | Jan/29/2024 20:28 | 
 201 | [B2 - Character Swap (Hard Version)](https://codeforces.com/contest/1243/problem/B2) | [GNU C++20 (64)](./codeforces/1243/B2.cpp) | `strings` `*1600` | Jan/29/2024 16:15 | 
 200 | [E - Construct Matrix](https://codeforces.com/contest/1917/problem/E) | [GNU C++20 (64)](./codeforces/1917/E.cpp) | `constructive algorithms` `math` `*2500` | Jan/28/2024 21:01 | 
 199 | [C - Watering an Array](https://codeforces.com/contest/1917/problem/C) | [GNU C++20 (64)](./codeforces/1917/C.cpp) | `brute force` `greedy` `implementation` `math` `*1600` | Jan/28/2024 19:04 | 
