@@ -3620,5 +3620,25 @@
       "*1600"
     ],
     "timestamp": "Jan/30/2024 18:39"
+  },
+  "CF244107345": {
+    "contest_id": 1918,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1918\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "XOR-distance",
+    "problem_url": "https://codeforces.com/contest/1918/problem/C",
+    "submission_id": "CF244107345",
+    "submission_url": "https://codeforces.com/contest/1918/submission/244107345",
+    "tags": [
+      "bitmasks",
+      "bitmasks",
+      "dp",
+      "greedy",
+      "implementation",
+      "implementation"
+    ],
+    "timestamp": "Jan/30/2024 20:43"
   }
 }
