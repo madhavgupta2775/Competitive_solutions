@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-206 | [C - XOR-distance](https://codeforces.com/contest/1918/problem/C) | [GNU C++20 (64)](./codeforces/1918/C.cpp) | `bitmasks` `bitmasks` `dp` `greedy` `implementation` `implementation` | Jan/30/2024 20:43 | 
-205 | [B - Minimize Inversions](https://codeforces.com/contest/1918/problem/B) | [GNU C++20 (64)](./codeforces/1918/B.cpp) | `constructive algorithms` `data structures` `implementation` `sortings` | Jan/30/2024 20:12 | 
+207 | [C - XOR-distance](https://codeforces.com/contest/1918/problem/C) | [GNU C++20 (64)](./codeforces/1918/C.cpp) | `bitmasks` `bitmasks` `dp` `greedy` `implementation` `implementation` | Jan/30/2024 20:43 | 
+206 | [B - Minimize Inversions](https://codeforces.com/contest/1918/problem/B) | [GNU C++20 (64)](./codeforces/1918/B.cpp) | `constructive algorithms` `data structures` `implementation` `sortings` | Jan/30/2024 20:12 | 
+205 | [A - Brick Wall](https://codeforces.com/contest/1918/problem/A) | [GNU C++20 (64)](./codeforces/1918/A.cpp) | `constructive algorithms` `greedy` | Jan/30/2024 20:07 | 
 204 | [B - Memory Manager](https://codeforces.com/contest/7/problem/B) | [GNU C++20 (64)](./codeforces/7/B.cpp) | `implementation` `*1600` | Jan/30/2024 18:39 | 
 203 | [A - Alyona and mex](https://codeforces.com/contest/739/problem/A) | [GNU C++20 (64)](./codeforces/739/A.cpp) | `constructive algorithms` `greedy` `*1700` | Jan/29/2024 20:36 | 
 202 | [A - Pavel and barbecue](https://codeforces.com/contest/756/problem/A) | [GNU C++20 (64)](./codeforces/756/A.cpp) | `constructive algorithms` `dfs and similar` `*1700` | Jan/29/2024 19:47 | 
