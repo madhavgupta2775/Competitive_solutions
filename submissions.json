@@ -3604,5 +3604,21 @@
       "*1700"
     ],
     "timestamp": "Jan/29/2024 20:36"
+  },
+  "CF244058047": {
+    "contest_id": 7,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\7\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Memory Manager",
+    "problem_url": "https://codeforces.com/contest/7/problem/B",
+    "submission_id": "CF244058047",
+    "submission_url": "https://codeforces.com/contest/7/submission/244058047",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Jan/30/2024 18:39"
   }
 }
