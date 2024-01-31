@@ -3674,5 +3674,23 @@
       "implementation"
     ],
     "timestamp": "Jan/30/2024 20:43"
+  },
+  "CF244256982": {
+    "contest_id": 1920,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1920\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Satisfying Constraints",
+    "problem_url": "https://codeforces.com/contest/1920/problem/A",
+    "submission_id": "CF244256982",
+    "submission_url": "https://codeforces.com/contest/1920/submission/244256982",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/31/2024 17:53"
   }
 }
