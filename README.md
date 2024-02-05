@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-210 | [C - Carrying Conundrum](https://codeforces.com/contest/1567/problem/C) | [GNU C++20 (64)](./codeforces/1567/C.cpp) | `bitmasks` `combinatorics` `dp` `math` `*1600` | Feb/06/2024 14:59 | 
-209 | [C - Crazy Diamond](https://codeforces.com/contest/1148/problem/C) | [GNU C++20 (64)](./codeforces/1148/C.cpp) | `constructive algorithms` `sortings` `*1700` | Feb/06/2024 02:56 | 
+211 | [C - Carrying Conundrum](https://codeforces.com/contest/1567/problem/C) | [GNU C++20 (64)](./codeforces/1567/C.cpp) | `bitmasks` `combinatorics` `dp` `math` `*1600` | Feb/06/2024 14:59 | 
+210 | [C - Crazy Diamond](https://codeforces.com/contest/1148/problem/C) | [GNU C++20 (64)](./codeforces/1148/C.cpp) | `constructive algorithms` `sortings` `*1700` | Feb/06/2024 02:56 | 
+209 | [C - Fence Painting](https://codeforces.com/contest/1481/problem/C) | [GNU C++20 (64)](./codeforces/1481/C.cpp) | `brute force` `constructive algorithms` `greedy` `*1600` | Feb/06/2024 01:55 | 
 208 | [A - Satisfying Constraints](https://codeforces.com/contest/1920/problem/A) | [GNU C++20 (64)](./codeforces/1920/A.cpp) | `brute force` `greedy` `math` `*800` | Jan/31/2024 17:53 | 
 207 | [C - XOR-distance](https://codeforces.com/contest/1918/problem/C) | [GNU C++20 (64)](./codeforces/1918/C.cpp) | `bitmasks` `bitmasks` `dp` `greedy` `implementation` `implementation` | Jan/30/2024 20:43 | 
 206 | [B - Minimize Inversions](https://codeforces.com/contest/1918/problem/B) | [GNU C++20 (64)](./codeforces/1918/B.cpp) | `constructive algorithms` `data structures` `implementation` `sortings` | Jan/30/2024 20:12 | 
