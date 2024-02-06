@@ -216,22 +216,23 @@ void solve() {
     forn(i, 0, n) {
         cin >> a[i];
     }
-    int ans = 0, min_val = a[0], sub = 0;
+    int ans = 0, min_val = a[0];
+    Segtree st(n, a);
     forn(i, 0, n) {
-        a[i] -= sub;
-        int val = a[i];
+        int val = st.access(i);
         if(val <= min_val) {
             min_val = val;
             if(i > 0) {
-                int diff = min_val - a[i - 1];
+                int diff = min_val - st.access(i - 1);
                 if(diff < 0) {
+                    st.update(diff, 0, i - 1);
                     ans += -1 * diff;
                 }
             }
             if(i < n - 1) {
-                int diff = min_val - a[i + 1] + sub;
+                int diff = min_val - st.access(i + 1);
                 if(diff < 0) {
-                    sub += -1 * diff;
+                    st.update(diff, i + 1, n - 1);
                     ans += -1 * diff;
                 }
             }

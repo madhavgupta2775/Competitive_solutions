@@ -3747,6 +3747,24 @@
     ],
     "timestamp": "Feb/06/2024 14:59"
   },
+  "CF245066232": {
+    "contest_id": 1700,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1700\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Helping the Nature",
+    "problem_url": "https://codeforces.com/contest/1700/problem/C",
+    "submission_id": "CF245066232",
+    "submission_url": "https://codeforces.com/contest/1700/submission/245066232",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Feb/06/2024 18:13"
+  },
   "CF245067597": {
     "contest_id": 1700,
     "language": "GNU C++20 (64)",
