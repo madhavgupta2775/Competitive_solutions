@@ -3692,5 +3692,24 @@
       "*800"
     ],
     "timestamp": "Jan/31/2024 17:53"
+  },
+  "CF245045750": {
+    "contest_id": 1567,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1567\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Carrying Conundrum",
+    "problem_url": "https://codeforces.com/contest/1567/problem/C",
+    "submission_id": "CF245045750",
+    "submission_url": "https://codeforces.com/contest/1567/submission/245045750",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Feb/06/2024 14:59"
   }
 }
