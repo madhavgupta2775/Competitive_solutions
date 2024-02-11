@@ -3854,6 +3854,26 @@
     ],
     "timestamp": "Feb/11/2024 16:58"
   },
+  "CF245872127": {
+    "contest_id": 1928,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1928\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lonely Mountain Dungeons",
+    "problem_url": "https://codeforces.com/contest/1928/problem/D",
+    "submission_id": "CF245872127",
+    "submission_url": "https://codeforces.com/contest/1928/submission/245872127",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "ternary search"
+    ],
+    "timestamp": "Feb/11/2024 19:58"
+  },
   "CF245980438": {
     "contest_id": 832,
     "language": "GNU C++20 (64)",
