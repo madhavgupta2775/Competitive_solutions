@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-218 | [C - Riverside Curio](https://codeforces.com/contest/924/problem/C) | [GNU C++20 (64)](./codeforces/924/C.cpp) | `data structures` `dp` `greedy` `*1700` | Feb/12/2024 22:40 | 
-217 | [C - Minimize The Integer](https://codeforces.com/contest/1251/problem/C) | [GNU C++20 (64)](./codeforces/1251/C.cpp) | `greedy` `two pointers` `*1600` | Feb/12/2024 20:52 | 
+219 | [C - Riverside Curio](https://codeforces.com/contest/924/problem/C) | [GNU C++20 (64)](./codeforces/924/C.cpp) | `data structures` `dp` `greedy` `*1700` | Feb/12/2024 22:40 | 
+218 | [C - Minimize The Integer](https://codeforces.com/contest/1251/problem/C) | [GNU C++20 (64)](./codeforces/1251/C.cpp) | `greedy` `two pointers` `*1600` | Feb/12/2024 20:52 | 
+217 | [E - Look Back](https://codeforces.com/contest/1883/problem/E) | [GNU C++20 (64)](./codeforces/1883/E.cpp) | `bitmasks` `greedy` `*1700` | Feb/12/2024 19:31 | 
 216 | [C - Physical Education Lesson](https://codeforces.com/contest/1928/problem/C) | [GNU C++20 (64)](./codeforces/1928/C.cpp) | `brute force` `math` `number theory` | Feb/11/2024 16:58 | 
 215 | [B - Equalize](https://codeforces.com/contest/1928/problem/B) | [GNU C++20 (64)](./codeforces/1928/B.cpp) | `binary search` `greedy` `sortings` `two pointers` | Feb/11/2024 15:16 | 
 214 | [A - Rectangle Cutting](https://codeforces.com/contest/1928/problem/A) | [GNU C++20 (64)](./codeforces/1928/A.cpp) | `geometry` `greedy` `math` | Feb/11/2024 15:09 | 
