@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+217 | [C - Riverside Curio](https://codeforces.com/contest/924/problem/C) | [GNU C++20 (64)](./codeforces/924/C.cpp) | `data structures` `dp` `greedy` `*1700` | Feb/12/2024 22:40 | 
 216 | [C - Physical Education Lesson](https://codeforces.com/contest/1928/problem/C) | [GNU C++20 (64)](./codeforces/1928/C.cpp) | `brute force` `math` `number theory` | Feb/11/2024 16:58 | 
 215 | [B - Equalize](https://codeforces.com/contest/1928/problem/B) | [GNU C++20 (64)](./codeforces/1928/B.cpp) | `binary search` `greedy` `sortings` `two pointers` | Feb/11/2024 15:16 | 
 214 | [A - Rectangle Cutting](https://codeforces.com/contest/1928/problem/A) | [GNU C++20 (64)](./codeforces/1928/A.cpp) | `geometry` `greedy` `math` | Feb/11/2024 15:09 | 

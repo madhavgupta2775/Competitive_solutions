@@ -3853,5 +3853,23 @@
       "number theory"
     ],
     "timestamp": "Feb/11/2024 16:58"
+  },
+  "CF246015390": {
+    "contest_id": 924,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\924\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Riverside Curio",
+    "problem_url": "https://codeforces.com/contest/924/problem/C",
+    "submission_id": "CF246015390",
+    "submission_url": "https://codeforces.com/contest/924/submission/246015390",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Feb/12/2024 22:40"
   }
 }
