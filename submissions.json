@@ -3960,6 +3960,22 @@
     ],
     "timestamp": "Feb/12/2024 22:40"
   },
+  "CF246116075": {
+    "contest_id": 1931,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1931\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Recovering a Small String",
+    "problem_url": "https://codeforces.com/contest/1931/problem/A",
+    "submission_id": "CF246116075",
+    "submission_url": "https://codeforces.com/contest/1931/submission/246116075",
+    "tags": [
+      "brute force",
+      "strings"
+    ],
+    "timestamp": "Feb/13/2024 20:08"
+  },
   "CF246121812": {
     "contest_id": 1931,
     "language": "GNU C++20 (64)",
