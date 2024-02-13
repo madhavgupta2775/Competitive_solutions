@@ -3959,5 +3959,24 @@
       "*1700"
     ],
     "timestamp": "Feb/12/2024 22:40"
+  },
+  "CF246264078": {
+    "contest_id": 1931,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1931\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Chat Screenshots",
+    "problem_url": "https://codeforces.com/contest/1931/problem/F",
+    "submission_id": "CF246264078",
+    "submission_url": "https://codeforces.com/contest/1931/submission/246264078",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ],
+    "timestamp": "Feb/13/2024 23:00"
   }
 }

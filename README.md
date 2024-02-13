@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+223 | [F - Chat Screenshots](https://codeforces.com/contest/1931/problem/F) | [GNU C++20 (64)](./codeforces/1931/F.cpp) | `brute force` `combinatorics` `dfs and similar` `graphs` `implementation` | Feb/13/2024 23:00 | 
 222 | [C - Riverside Curio](https://codeforces.com/contest/924/problem/C) | [GNU C++20 (64)](./codeforces/924/C.cpp) | `data structures` `dp` `greedy` `*1700` | Feb/12/2024 22:40 | 
 221 | [C - Minimize The Integer](https://codeforces.com/contest/1251/problem/C) | [GNU C++20 (64)](./codeforces/1251/C.cpp) | `greedy` `two pointers` `*1600` | Feb/12/2024 20:52 | 
 220 | [E - Look Back](https://codeforces.com/contest/1883/problem/E) | [GNU C++20 (64)](./codeforces/1883/E.cpp) | `bitmasks` `greedy` `*1700` | Feb/12/2024 19:31 | 
