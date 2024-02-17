@@ -4097,6 +4097,22 @@
     ],
     "timestamp": "Feb/15/2024 01:43"
   },
+  "CF246820964": {
+    "contest_id": 1930,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1930\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maximise The Score",
+    "problem_url": "https://codeforces.com/contest/1930/problem/A",
+    "submission_id": "CF246820964",
+    "submission_url": "https://codeforces.com/contest/1930/submission/246820964",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Feb/17/2024 20:06"
+  },
   "CF246824443": {
     "contest_id": 1930,
     "language": "GNU C++20 (64)",
