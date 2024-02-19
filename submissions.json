@@ -4097,6 +4097,27 @@
     ],
     "timestamp": "Feb/15/2024 01:43"
   },
+  "CF247325144": {
+    "contest_id": 1926,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1926\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Vlad and an Odd Ordering",
+    "problem_url": "https://codeforces.com/contest/1926/problem/E",
+    "submission_id": "CF247325144",
+    "submission_url": "https://codeforces.com/contest/1926/submission/247325144",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Feb/19/2024 21:22"
+  },
   "CF247748917": {
     "contest_id": 329,
     "language": "GNU C++20 (64)",
