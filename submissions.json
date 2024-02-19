@@ -4097,6 +4097,22 @@
     ],
     "timestamp": "Feb/15/2024 01:43"
   },
+  "CF247288949": {
+    "contest_id": 1926,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1926\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vlad and Division",
+    "problem_url": "https://codeforces.com/contest/1926/problem/D",
+    "submission_id": "CF247288949",
+    "submission_url": "https://codeforces.com/contest/1926/submission/247288949",
+    "tags": [
+      "bitmasks",
+      "greedy"
+    ],
+    "timestamp": "Feb/19/2024 20:44"
+  },
   "CF247325144": {
     "contest_id": 1926,
     "language": "GNU C++20 (64)",
