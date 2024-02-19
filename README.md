@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-236 | [C - George and Job](https://codeforces.com/contest/467/problem/C) | [GNU C++20 (64)](./codeforces/467/C.cpp) | `dp` `implementation` `*1700` | Feb/23/2024 18:01 | 
-235 | [B - Party](https://codeforces.com/contest/23/problem/B) | [GNU C++20 (64)](./codeforces/23/B.cpp) | `constructive algorithms` `graphs` `math` `*1600` | Feb/22/2024 20:26 | 
-234 | [C - Arithmetic Progression](https://codeforces.com/contest/382/problem/C) | [GNU C++20 (64)](./codeforces/382/C.cpp) | `implementation` `sortings` `*1700` | Feb/22/2024 19:33 | 
-233 | [A - Purification](https://codeforces.com/contest/329/problem/A) | [GNU C++20 (64)](./codeforces/329/A.cpp) | `constructive algorithms` `greedy` `*1500` | Feb/22/2024 19:10 | 
-232 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [GNU C++20 (64)](./codeforces/1926/E.cpp) | `binary search` `bitmasks` `data structures` `dp` `implementation` `math` `number theory` | Feb/19/2024 21:22 | 
-231 | [D - Vlad and Division](https://codeforces.com/contest/1926/problem/D) | [GNU C++20 (64)](./codeforces/1926/D.cpp) | `bitmasks` `greedy` | Feb/19/2024 20:44 | 
+237 | [C - George and Job](https://codeforces.com/contest/467/problem/C) | [GNU C++20 (64)](./codeforces/467/C.cpp) | `dp` `implementation` `*1700` | Feb/23/2024 18:01 | 
+236 | [B - Party](https://codeforces.com/contest/23/problem/B) | [GNU C++20 (64)](./codeforces/23/B.cpp) | `constructive algorithms` `graphs` `math` `*1600` | Feb/22/2024 20:26 | 
+235 | [C - Arithmetic Progression](https://codeforces.com/contest/382/problem/C) | [GNU C++20 (64)](./codeforces/382/C.cpp) | `implementation` `sortings` `*1700` | Feb/22/2024 19:33 | 
+234 | [A - Purification](https://codeforces.com/contest/329/problem/A) | [GNU C++20 (64)](./codeforces/329/A.cpp) | `constructive algorithms` `greedy` `*1500` | Feb/22/2024 19:10 | 
+233 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [GNU C++20 (64)](./codeforces/1926/E.cpp) | `binary search` `bitmasks` `data structures` `dp` `implementation` `math` `number theory` | Feb/19/2024 21:22 | 
+232 | [D - Vlad and Division](https://codeforces.com/contest/1926/problem/D) | [GNU C++20 (64)](./codeforces/1926/D.cpp) | `bitmasks` `greedy` | Feb/19/2024 20:44 | 
+231 | [C - Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | [GNU C++20 (64)](./codeforces/1926/C.cpp) | `dp` `implementation` | Feb/19/2024 20:34 | 
 230 | [B - Average Superhero Gang Power ](https://codeforces.com/contest/1111/problem/B) | [GNU C++20 (64)](./codeforces/1111/B.cpp) | `brute force` `implementation` `math` `*1700` | Feb/15/2024 01:43 | 
 229 | [C - Hard problem](https://codeforces.com/contest/706/problem/C) | [GNU C++20 (64)](./codeforces/706/C.cpp) | `dp` `strings` `*1600` | Feb/15/2024 00:48 | 
 228 | [F - Chat Screenshots](https://codeforces.com/contest/1931/problem/F) | [GNU C++20 (64)](./codeforces/1931/F.cpp) | `brute force` `combinatorics` `dfs and similar` `graphs` `implementation` | Feb/13/2024 23:00 | 
