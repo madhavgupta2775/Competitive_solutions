@@ -4097,6 +4097,21 @@
     ],
     "timestamp": "Feb/15/2024 01:43"
   },
+  "CF247220547": {
+    "contest_id": 1926,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1926\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vlad and the Best of Five",
+    "problem_url": "https://codeforces.com/contest/1926/problem/A",
+    "submission_id": "CF247220547",
+    "submission_url": "https://codeforces.com/contest/1926/submission/247220547",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Feb/19/2024 20:05"
+  },
   "CF247241276": {
     "contest_id": 1926,
     "language": "GNU C++20 (64)",
