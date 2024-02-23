@@ -4096,5 +4096,22 @@
       "*1700"
     ],
     "timestamp": "Feb/15/2024 01:43"
+  },
+  "CF247875957": {
+    "contest_id": 467,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\467\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "George and Job",
+    "problem_url": "https://codeforces.com/contest/467/problem/C",
+    "submission_id": "CF247875957",
+    "submission_url": "https://codeforces.com/contest/467/submission/247875957",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Feb/23/2024 18:01"
   }
 }
