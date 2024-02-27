@@ -4462,6 +4462,24 @@
     ],
     "timestamp": "Feb/23/2024 18:01"
   },
+  "CF248508835": {
+    "contest_id": 1933,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1933\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Turtle Math: Fast Three Task",
+    "problem_url": "https://codeforces.com/contest/1933/problem/B",
+    "submission_id": "CF248508835",
+    "submission_url": "https://codeforces.com/contest/1933/submission/248508835",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Feb/27/2024 20:11"
+  },
   "CF248561783": {
     "contest_id": 1933,
     "language": "C++20 (GCC 11-64)",
