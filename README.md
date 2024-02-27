@@ -30,7 +30,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 254 | [B - Turtle Math: Fast Three Task](https://codeforces.com/contest/1933/problem/B) | [C++20 (GCC 11-64)](./codeforces/1933/B.cpp) | `implementation` `math` `number theory` `*800` | Feb/27/2024 20:11 | 
 253 | [A - Turtle Puzzle: Rearrange and Negate](https://codeforces.com/contest/1933/problem/A) | [C++20 (GCC 11-64)](./codeforces/1933/A.cpp) | `greedy` `math` `sortings` `*800` | Feb/27/2024 20:06 | 
 252 | [A - Kyoya and Colored Balls](https://codeforces.com/contest/553/problem/A) | [C++20 (GCC 11-64)](./codeforces/553/A.cpp) | `combinatorics` `dp` `math` `*1500` | Feb/27/2024 16:13 | 
-251 | [C - George and Job](https://codeforces.com/contest/467/problem/C) | [GNU C++20 (64)](./codeforces/467/C.cpp) | `dp` `implementation` `*1700` | Feb/23/2024 18:01 | 
+251 | [C - George and Job](https://codeforces.com/contest/467/problem/C) | [C++20 (GCC 11-64)](./codeforces/467/C.cpp) | `dp` `implementation` `*1700` | Feb/27/2024 14:52 | 
 250 | [B - Party](https://codeforces.com/contest/23/problem/B) | [GNU C++20 (64)](./codeforces/23/B.cpp) | `constructive algorithms` `graphs` `math` `*1600` | Feb/22/2024 20:26 | 
 249 | [C - Arithmetic Progression](https://codeforces.com/contest/382/problem/C) | [GNU C++20 (64)](./codeforces/382/C.cpp) | `implementation` `sortings` `*1700` | Feb/22/2024 19:33 | 
 248 | [A - Purification](https://codeforces.com/contest/329/problem/A) | [GNU C++20 (64)](./codeforces/329/A.cpp) | `constructive algorithms` `greedy` `*1500` | Feb/22/2024 19:10 | 
