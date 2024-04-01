@@ -4462,6 +4462,21 @@
     ],
     "timestamp": "Feb/23/2024 18:01"
   },
+  "CF254490691": {
+    "contest_id": 1952,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1952\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Are You a Robot, Again?",
+    "problem_url": "https://codeforces.com/contest/1952/problem/A",
+    "submission_id": "CF254490691",
+    "submission_url": "https://codeforces.com/contest/1952/submission/254490691",
+    "tags": [
+      "strings"
+    ],
+    "timestamp": "Apr/01/2024 20:24"
+  },
   "CF254505307": {
     "contest_id": 1952,
     "language": "C++20 (GCC 13-64)",
