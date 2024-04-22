@@ -4779,6 +4779,23 @@
     ],
     "timestamp": "Apr/01/2024 20:34"
   },
+  "CF257750876": {
+    "contest_id": 1957,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces\\1957\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "How Does the Rook Move?",
+    "problem_url": "https://codeforces.com/contest/1957/problem/C",
+    "submission_id": "CF257750876",
+    "submission_url": "https://codeforces.com/contest/1957/submission/257750876",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math"
+    ],
+    "timestamp": "Apr/22/2024 20:20"
+  },
   "CF257751048": {
     "contest_id": 1957,
     "language": "C++20 (GCC 13-64)",
