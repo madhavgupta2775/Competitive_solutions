@@ -4813,6 +4813,24 @@
     ],
     "timestamp": "Apr/22/2024 20:22"
   },
+  "CF262024948": {
+    "contest_id": 1974,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1974\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Symmetric Encoding",
+    "problem_url": "https://codeforces.com/contest/1974/problem/B",
+    "submission_id": "CF262024948",
+    "submission_url": "https://codeforces.com/contest/1974/submission/262024948",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/21/2024 18:59"
+  },
   "CF262028594": {
     "contest_id": 1974,
     "language": "C++20 (GCC 13-64)",
