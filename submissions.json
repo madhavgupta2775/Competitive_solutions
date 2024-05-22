@@ -4813,6 +4813,22 @@
     ],
     "timestamp": "Apr/22/2024 20:22"
   },
+  "CF262121839": {
+    "contest_id": 1974,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1974\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Money Buys Happiness",
+    "problem_url": "https://codeforces.com/contest/1974/problem/E",
+    "submission_id": "CF262121839",
+    "submission_url": "https://codeforces.com/contest/1974/submission/262121839",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "May/22/2024 15:05"
+  },
   "CF262240657": {
     "contest_id": 1974,
     "language": "C++20 (GCC 13-64)",
