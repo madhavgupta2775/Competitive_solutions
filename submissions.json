@@ -4813,6 +4813,24 @@
     ],
     "timestamp": "Apr/22/2024 20:22"
   },
+  "CF262240657": {
+    "contest_id": 1974,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1974\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Money Buys Less Happiness Now ",
+    "problem_url": "https://codeforces.com/contest/1974/problem/G",
+    "submission_id": "CF262240657",
+    "submission_url": "https://codeforces.com/contest/1974/submission/262240657",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/23/2024 15:57"
+  },
   "CF262891519": {
     "contest_id": 1975,
     "language": "C++20 (GCC 13-64)",
