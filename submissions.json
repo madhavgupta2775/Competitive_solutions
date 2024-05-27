@@ -4813,6 +4813,24 @@
     ],
     "timestamp": "Apr/22/2024 20:22"
   },
+  "CF262896039": {
+    "contest_id": 1975,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1975\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Chamo and Mocha's Array",
+    "problem_url": "https://codeforces.com/contest/1975/problem/C",
+    "submission_id": "CF262896039",
+    "submission_url": "https://codeforces.com/contest/1975/submission/262896039",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "May/27/2024 20:07"
+  },
   "CF263052941": {
     "contest_id": 1975,
     "language": "C++20 (GCC 13-64)",
