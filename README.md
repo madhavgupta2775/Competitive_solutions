@@ -13,15 +13,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-278 | [D - Fixing a Binary String](https://codeforces.com/contest/1979/problem/D) | [C++20 (GCC 13-64)](./codeforces/1979/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `hashing` `strings` | Jun/06/2024 23:47 | 
-277 | [C - Earning on Bets](https://codeforces.com/contest/1979/problem/C) | [C++20 (GCC 13-64)](./codeforces/1979/C.cpp) | `binary search` `combinatorics` `constructive algorithms` `number theory` | Jun/06/2024 20:32 | 
-276 | [B - XOR Sequences](https://codeforces.com/contest/1979/problem/B) | [C++20 (GCC 13-64)](./codeforces/1979/B.cpp) | `bitmasks` `greedy` | Jun/06/2024 20:18 | 
-275 | [A - Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | [C++20 (GCC 13-64)](./codeforces/1979/A.cpp) | `brute force` `greedy` `implementation` | Jun/06/2024 20:08 | 
-274 | [B - Increase/Decrease/Copy](https://codeforces.com/contest/1976/problem/B) | [C++20 (GCC 13-64)](./codeforces/1976/B.cpp) | `greedy` `implementation` | May/30/2024 20:18 | 
-273 | [A - Verify Password](https://codeforces.com/contest/1976/problem/A) | [C++20 (GCC 13-64)](./codeforces/1976/A.cpp) | `implementation` `sortings` `strings` | May/30/2024 20:07 | 
-272 | [D - Paint the Tree](https://codeforces.com/contest/1975/problem/D) | [C++20 (GCC 13-64)](./codeforces/1975/D.cpp) | `brute force` `dfs and similar` `dp` `greedy` `shortest paths` `trees` `*1700` | May/28/2024 23:56 | 
-271 | [C - Chamo and Mocha's Array](https://codeforces.com/contest/1975/problem/C) | [C++20 (GCC 13-64)](./codeforces/1975/C.cpp) | `binary search` `brute force` `greedy` `*1200` | May/27/2024 20:07 | 
-270 | [B - 378QAQ and Mocha's Array](https://codeforces.com/contest/1975/problem/B) | [C++20 (GCC 13-64)](./codeforces/1975/B.cpp) | `brute force` `greedy` `math` `sortings` `*1000` | May/27/2024 19:49 | 
+279 | [D - Fixing a Binary String](https://codeforces.com/contest/1979/problem/D) | [C++20 (GCC 13-64)](./codeforces/1979/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `hashing` `strings` | Jun/06/2024 23:47 | 
+278 | [C - Earning on Bets](https://codeforces.com/contest/1979/problem/C) | [C++20 (GCC 13-64)](./codeforces/1979/C.cpp) | `binary search` `combinatorics` `constructive algorithms` `number theory` | Jun/06/2024 20:32 | 
+277 | [B - XOR Sequences](https://codeforces.com/contest/1979/problem/B) | [C++20 (GCC 13-64)](./codeforces/1979/B.cpp) | `bitmasks` `greedy` | Jun/06/2024 20:18 | 
+276 | [A - Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | [C++20 (GCC 13-64)](./codeforces/1979/A.cpp) | `brute force` `greedy` `implementation` | Jun/06/2024 20:08 | 
+275 | [B - Increase/Decrease/Copy](https://codeforces.com/contest/1976/problem/B) | [C++20 (GCC 13-64)](./codeforces/1976/B.cpp) | `greedy` `implementation` | May/30/2024 20:18 | 
+274 | [A - Verify Password](https://codeforces.com/contest/1976/problem/A) | [C++20 (GCC 13-64)](./codeforces/1976/A.cpp) | `implementation` `sortings` `strings` | May/30/2024 20:07 | 
+273 | [D - Paint the Tree](https://codeforces.com/contest/1975/problem/D) | [C++20 (GCC 13-64)](./codeforces/1975/D.cpp) | `brute force` `dfs and similar` `dp` `greedy` `shortest paths` `trees` `*1700` | May/28/2024 23:56 | 
+272 | [C - Chamo and Mocha's Array](https://codeforces.com/contest/1975/problem/C) | [C++20 (GCC 13-64)](./codeforces/1975/C.cpp) | `binary search` `brute force` `greedy` `*1200` | May/27/2024 20:07 | 
+271 | [B - 378QAQ and Mocha's Array](https://codeforces.com/contest/1975/problem/B) | [C++20 (GCC 13-64)](./codeforces/1975/B.cpp) | `brute force` `greedy` `math` `sortings` `*1000` | May/27/2024 19:49 | 
+270 | [A - Bazoka and Mocha's Array](https://codeforces.com/contest/1975/problem/A) | [C++20 (GCC 13-64)](./codeforces/1975/A.cpp) | `brute force` `greedy` `implementation` `sortings` `*800` | May/27/2024 19:31 | 
 269 | [C - How Does the Rook Move?](https://codeforces.com/contest/1957/problem/C) | [C++20 (GCC 13-64)](./codeforces/1957/C.cpp) | `combinatorics` `dp` `math` | Apr/22/2024 20:22 | 
 268 | [B - Is it stated?](https://codeforces.com/contest/1952/problem/B) | [C++20 (GCC 13-64)](./codeforces/1952/B.cpp) | `strings` | Apr/01/2024 20:34 | 
 267 | [A - Are You a Robot, Again?](https://codeforces.com/contest/1952/problem/A) | [C++20 (GCC 13-64)](./codeforces/1952/A.cpp) | `strings` | Apr/01/2024 20:24 | 
