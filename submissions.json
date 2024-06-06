@@ -4812,5 +4812,25 @@
       "math"
     ],
     "timestamp": "Apr/22/2024 20:22"
+  },
+  "CF264501631": {
+    "contest_id": 1979,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1979\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Fixing a Binary String",
+    "problem_url": "https://codeforces.com/contest/1979/problem/D",
+    "submission_id": "CF264501631",
+    "submission_url": "https://codeforces.com/contest/1979/submission/264501631",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "hashing",
+      "strings"
+    ],
+    "timestamp": "Jun/06/2024 23:47"
   }
 }
