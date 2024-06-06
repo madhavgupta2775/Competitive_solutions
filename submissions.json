@@ -4813,6 +4813,24 @@
     ],
     "timestamp": "Apr/22/2024 20:22"
   },
+  "CF264435352": {
+    "contest_id": 1979,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1979\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Earning on Bets",
+    "problem_url": "https://codeforces.com/contest/1979/problem/C",
+    "submission_id": "CF264435352",
+    "submission_url": "https://codeforces.com/contest/1979/submission/264435352",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "constructive algorithms",
+      "number theory"
+    ],
+    "timestamp": "Jun/06/2024 20:32"
+  },
   "CF264501631": {
     "contest_id": 1979,
     "language": "C++20 (GCC 13-64)",
