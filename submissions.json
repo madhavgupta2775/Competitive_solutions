@@ -5370,6 +5370,22 @@
     ],
     "timestamp": "Jun/06/2024 23:47"
   },
+  "CF264870511": {
+    "contest_id": 1984,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1984\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Strange Splitting",
+    "problem_url": "https://codeforces.com/contest/1984/problem/A",
+    "submission_id": "CF264870511",
+    "submission_url": "https://codeforces.com/contest/1984/submission/264870511",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Jun/09/2024 20:12"
+  },
   "CF264893164": {
     "contest_id": 1984,
     "language": "C++20 (GCC 13-64)",
