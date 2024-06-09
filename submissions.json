@@ -5369,5 +5369,24 @@
       "strings"
     ],
     "timestamp": "Jun/06/2024 23:47"
+  },
+  "CF264931572": {
+    "contest_id": 1984,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1984\\C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Magnitude (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1984/problem/C2",
+    "submission_id": "CF264931572",
+    "submission_url": "https://codeforces.com/contest/1984/submission/264931572",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jun/09/2024 21:35"
   }
 }
