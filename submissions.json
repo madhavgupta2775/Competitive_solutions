@@ -5370,6 +5370,23 @@
     ],
     "timestamp": "Jun/06/2024 23:47"
   },
+  "CF264893164": {
+    "contest_id": 1984,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1984\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Large Addition",
+    "problem_url": "https://codeforces.com/contest/1984/problem/B",
+    "submission_id": "CF264893164",
+    "submission_url": "https://codeforces.com/contest/1984/submission/264893164",
+    "tags": [
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/09/2024 20:33"
+  },
   "CF264904594": {
     "contest_id": 1984,
     "language": "C++20 (GCC 13-64)",
