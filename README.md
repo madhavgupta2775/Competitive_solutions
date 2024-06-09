@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-302 | [E - Water Tank](https://atcoder.jp/contests/abc359/tasks/abc359_e) | [C++ 20 (gcc 12.2)](./atcoder/abc359/E.cpp) | `AtCoder` `*500` | Jun/22/2024 19:06 | 
-301 | [C - Tile Distance 2](https://atcoder.jp/contests/abc359/tasks/abc359_c) | [C++ 20 (gcc 12.2)](./atcoder/abc359/C.cpp) | `AtCoder` `*350` | Jun/22/2024 17:58 | 
-300 | [B - Couples](https://atcoder.jp/contests/abc359/tasks/abc359_b) | [C++ 20 (gcc 12.2)](./atcoder/abc359/B.cpp) | `AtCoder` `*150` | Jun/22/2024 17:33 | 
-299 | [A - Count Takahashi](https://atcoder.jp/contests/abc359/tasks/abc359_a) | [C++ 20 (gcc 12.2)](./atcoder/abc359/A.cpp) | `AtCoder` `*100` | Jun/22/2024 17:31 | 
-298 | [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | [C++ 20 (gcc 12.2)](./atcoder/dp/O.cpp) | `AtCoder` `*100` | Jun/22/2024 15:19 | 
-297 | [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n) | [C++ 20 (gcc 12.2)](./atcoder/dp/N.cpp) | `AtCoder` `*100` | Jun/15/2024 21:16 | 
-296 | [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m) | [C++ 20 (gcc 12.2)](./atcoder/dp/M.cpp) | `AtCoder` `*100` | Jun/15/2024 16:25 | 
-295 | [C2 - Magnitude (Hard Version)](https://codeforces.com/contest/1984/problem/C2) | [C++20 (GCC 13-64)](./codeforces/1984/C2.cpp) | `combinatorics` `dp` `greedy` `math` `*1700` | Jun/09/2024 21:35 | 
+303 | [E - Water Tank](https://atcoder.jp/contests/abc359/tasks/abc359_e) | [C++ 20 (gcc 12.2)](./atcoder/abc359/E.cpp) | `AtCoder` `*500` | Jun/22/2024 19:06 | 
+302 | [C - Tile Distance 2](https://atcoder.jp/contests/abc359/tasks/abc359_c) | [C++ 20 (gcc 12.2)](./atcoder/abc359/C.cpp) | `AtCoder` `*350` | Jun/22/2024 17:58 | 
+301 | [B - Couples](https://atcoder.jp/contests/abc359/tasks/abc359_b) | [C++ 20 (gcc 12.2)](./atcoder/abc359/B.cpp) | `AtCoder` `*150` | Jun/22/2024 17:33 | 
+300 | [A - Count Takahashi](https://atcoder.jp/contests/abc359/tasks/abc359_a) | [C++ 20 (gcc 12.2)](./atcoder/abc359/A.cpp) | `AtCoder` `*100` | Jun/22/2024 17:31 | 
+299 | [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | [C++ 20 (gcc 12.2)](./atcoder/dp/O.cpp) | `AtCoder` `*100` | Jun/22/2024 15:19 | 
+298 | [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n) | [C++ 20 (gcc 12.2)](./atcoder/dp/N.cpp) | `AtCoder` `*100` | Jun/15/2024 21:16 | 
+297 | [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m) | [C++ 20 (gcc 12.2)](./atcoder/dp/M.cpp) | `AtCoder` `*100` | Jun/15/2024 16:25 | 
+296 | [C2 - Magnitude (Hard Version)](https://codeforces.com/contest/1984/problem/C2) | [C++20 (GCC 13-64)](./codeforces/1984/C2.cpp) | `combinatorics` `dp` `greedy` `math` `*1700` | Jun/09/2024 21:35 | 
+295 | [C1 - Magnitude (Easy Version)](https://codeforces.com/contest/1984/problem/C1) | [C++20 (GCC 13-64)](./codeforces/1984/C1.cpp) | `dp` `greedy` `math` `*1300` | Jun/09/2024 20:47 | 
 294 | [D - Fixing a Binary String](https://codeforces.com/contest/1979/problem/D) | [C++20 (GCC 13-64)](./codeforces/1979/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `hashing` `strings` | Jun/06/2024 23:47 | 
 293 | [C - Earning on Bets](https://codeforces.com/contest/1979/problem/C) | [C++20 (GCC 13-64)](./codeforces/1979/C.cpp) | `binary search` `combinatorics` `constructive algorithms` `number theory` | Jun/06/2024 20:32 | 
 292 | [B - XOR Sequences](https://codeforces.com/contest/1979/problem/B) | [C++20 (GCC 13-64)](./codeforces/1979/B.cpp) | `bitmasks` `greedy` | Jun/06/2024 20:18 | 

@@ -5370,6 +5370,24 @@
     ],
     "timestamp": "Jun/06/2024 23:47"
   },
+  "CF264904594": {
+    "contest_id": 1984,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1984\\C1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Magnitude (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1984/problem/C1",
+    "submission_id": "CF264904594",
+    "submission_url": "https://codeforces.com/contest/1984/submission/264904594",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/09/2024 20:47"
+  },
   "CF264931572": {
     "contest_id": 1984,
     "language": "C++20 (GCC 13-64)",
