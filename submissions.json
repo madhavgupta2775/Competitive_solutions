@@ -383,6 +383,22 @@
     ],
     "timestamp": "May/27/2023 18:09"
   },
+  "AC54618856": {
+    "contest_id": "dp",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder\\dp\\N.cpp",
+    "platform": "AtCoder",
+    "problem_index": "N",
+    "problem_name": "Slimes",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_n",
+    "submission_id": "AC54618856",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/54618856",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/15/2024 21:16"
+  },
   "AC54786285": {
     "contest_id": "dp",
     "language": "C++ 20 (gcc 12.2)",
