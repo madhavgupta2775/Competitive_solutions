@@ -383,6 +383,22 @@
     ],
     "timestamp": "May/27/2023 18:09"
   },
+  "AC54791324": {
+    "contest_id": "abc359",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder\\abc359\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Count Takahashi",
+    "problem_url": "https://atcoder.jp/contests/abc359/tasks/abc359_a",
+    "submission_id": "AC54791324",
+    "submission_url": "https://atcoder.jp/contests/abc359/submissions/54791324",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/22/2024 17:31"
+  },
   "AC54797287": {
     "contest_id": "abc359",
     "language": "C++ 20 (gcc 12.2)",
