@@ -383,6 +383,22 @@
     ],
     "timestamp": "May/27/2023 18:09"
   },
+  "AC54846772": {
+    "contest_id": "abc359",
+    "language": "C++ 20 (gcc 12.2)",
+    "path": "atcoder\\abc359\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Water Tank",
+    "problem_url": "https://atcoder.jp/contests/abc359/tasks/abc359_e",
+    "submission_id": "AC54846772",
+    "submission_url": "https://atcoder.jp/contests/abc359/submissions/54846772",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/22/2024 19:06"
+  },
   "CF178219699": {
     "contest_id": 1703,
     "language": "GNU C++17",
