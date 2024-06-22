@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-289 | [E - Water Tank](https://atcoder.jp/contests/abc359/tasks/abc359_e) | [C++ 20 (gcc 12.2)](./atcoder/abc359/E.cpp) | `AtCoder` `*500` | Jun/22/2024 19:06 | 
-288 | [C - Tile Distance 2](https://atcoder.jp/contests/abc359/tasks/abc359_c) | [C++ 20 (gcc 12.2)](./atcoder/abc359/C.cpp) | `AtCoder` `*350` | Jun/22/2024 17:58 | 
-287 | [B - Couples](https://atcoder.jp/contests/abc359/tasks/abc359_b) | [C++ 20 (gcc 12.2)](./atcoder/abc359/B.cpp) | `AtCoder` `*150` | Jun/22/2024 17:33 | 
-286 | [A - Count Takahashi](https://atcoder.jp/contests/abc359/tasks/abc359_a) | [C++ 20 (gcc 12.2)](./atcoder/abc359/A.cpp) | `AtCoder` `*100` | Jun/22/2024 17:31 | 
+290 | [E - Water Tank](https://atcoder.jp/contests/abc359/tasks/abc359_e) | [C++ 20 (gcc 12.2)](./atcoder/abc359/E.cpp) | `AtCoder` `*500` | Jun/22/2024 19:06 | 
+289 | [C - Tile Distance 2](https://atcoder.jp/contests/abc359/tasks/abc359_c) | [C++ 20 (gcc 12.2)](./atcoder/abc359/C.cpp) | `AtCoder` `*350` | Jun/22/2024 17:58 | 
+288 | [B - Couples](https://atcoder.jp/contests/abc359/tasks/abc359_b) | [C++ 20 (gcc 12.2)](./atcoder/abc359/B.cpp) | `AtCoder` `*150` | Jun/22/2024 17:33 | 
+287 | [A - Count Takahashi](https://atcoder.jp/contests/abc359/tasks/abc359_a) | [C++ 20 (gcc 12.2)](./atcoder/abc359/A.cpp) | `AtCoder` `*100` | Jun/22/2024 17:31 | 
+286 | [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | [C++ 20 (gcc 12.2)](./atcoder/dp/O.cpp) | `AtCoder` `*100` | Jun/22/2024 15:19 | 
 285 | [D - Fixing a Binary String](https://codeforces.com/contest/1979/problem/D) | [C++20 (GCC 13-64)](./codeforces/1979/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `hashing` `strings` | Jun/06/2024 23:47 | 
 284 | [C - Earning on Bets](https://codeforces.com/contest/1979/problem/C) | [C++20 (GCC 13-64)](./codeforces/1979/C.cpp) | `binary search` `combinatorics` `constructive algorithms` `number theory` | Jun/06/2024 20:32 | 
 283 | [B - XOR Sequences](https://codeforces.com/contest/1979/problem/B) | [C++20 (GCC 13-64)](./codeforces/1979/B.cpp) | `bitmasks` `greedy` | Jun/06/2024 20:18 | 
