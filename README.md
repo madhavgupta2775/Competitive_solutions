@@ -7,12 +7,14 @@ Submissions
 A repository to keep track of problem solving practice, containing solutions from platforms:
 * Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/nannu.svg)](https://codeforces.com/profile/nannu)
 * AtCoder &nbsp; [![AtCoder](https://run.kaist.ac.kr/badges/atcoder/nannu.svg)](https://atcoder.jp/users/nannu)
+* CodeChef &nbsp; [![CodeChef](https://run.kaist.ac.kr/badges/codechef/madhav277.svg)](https://www.codechef.com/users/madhav277)
 
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+306 | [D - Beauty of the mountains](https://codeforces.com/contest/1982/problem/D) | [C++20 (GCC 13-64)](./codeforces/1982/D.cpp) | `brute force` `data structures` `dp` `implementation` `math` `number theory` | Jun/25/2024 22:44 | 
 305 | [E - Water Tank](https://atcoder.jp/contests/abc359/tasks/abc359_e) | [C++ 20 (gcc 12.2)](./atcoder/abc359/E.cpp) | `AtCoder` `*500` | Jun/22/2024 19:06 | 
 304 | [C - Tile Distance 2](https://atcoder.jp/contests/abc359/tasks/abc359_c) | [C++ 20 (gcc 12.2)](./atcoder/abc359/C.cpp) | `AtCoder` `*350` | Jun/22/2024 17:58 | 
 303 | [B - Couples](https://atcoder.jp/contests/abc359/tasks/abc359_b) | [C++ 20 (gcc 12.2)](./atcoder/abc359/B.cpp) | `AtCoder` `*150` | Jun/22/2024 17:33 | 

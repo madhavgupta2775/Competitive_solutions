@@ -5439,5 +5439,25 @@
       "*1700"
     ],
     "timestamp": "Jun/09/2024 21:35"
+  },
+  "CF267407986": {
+    "contest_id": 1982,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1982\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Beauty of the mountains",
+    "problem_url": "https://codeforces.com/contest/1982/problem/D",
+    "submission_id": "CF267407986",
+    "submission_url": "https://codeforces.com/contest/1982/submission/267407986",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Jun/25/2024 22:44"
   }
 }
