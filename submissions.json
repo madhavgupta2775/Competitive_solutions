@@ -5440,6 +5440,22 @@
     ],
     "timestamp": "Jun/09/2024 21:35"
   },
+  "CF267320096": {
+    "contest_id": 1986,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1986\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Non-academic Problem",
+    "problem_url": "https://codeforces.com/contest/1986/problem/F",
+    "submission_id": "CF267320096",
+    "submission_url": "https://codeforces.com/contest/1986/submission/267320096",
+    "tags": [
+      "dfs and similar",
+      "graphs"
+    ],
+    "timestamp": "Jun/25/2024 18:59"
+  },
   "CF267327301": {
     "contest_id": 1982,
     "language": "C++20 (GCC 13-64)",
