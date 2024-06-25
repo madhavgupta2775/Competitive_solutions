@@ -5440,6 +5440,23 @@
     ],
     "timestamp": "Jun/09/2024 21:35"
   },
+  "CF267327301": {
+    "contest_id": 1982,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1982\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Soccer",
+    "problem_url": "https://codeforces.com/contest/1982/problem/A",
+    "submission_id": "CF267327301",
+    "submission_url": "https://codeforces.com/contest/1982/submission/267327301",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Jun/25/2024 20:07"
+  },
   "CF267348942": {
     "contest_id": 1982,
     "language": "C++20 (GCC 13-64)",
