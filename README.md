@@ -14,7 +14,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-306 | [D - Beauty of the mountains](https://codeforces.com/contest/1982/problem/D) | [C++20 (GCC 13-64)](./codeforces/1982/D.cpp) | `brute force` `data structures` `dp` `implementation` `math` `number theory` | Jun/25/2024 22:44 | 
+307 | [D - Beauty of the mountains](https://codeforces.com/contest/1982/problem/D) | [C++20 (GCC 13-64)](./codeforces/1982/D.cpp) | `brute force` `data structures` `dp` `implementation` `math` `number theory` | Jun/25/2024 22:44 | 
+306 | [C - Boring Day](https://codeforces.com/contest/1982/problem/C) | [C++20 (GCC 13-64)](./codeforces/1982/C.cpp) | `binary search` `data structures` `dp` `greedy` `two pointers` | Jun/25/2024 20:37 | 
 305 | [E - Water Tank](https://atcoder.jp/contests/abc359/tasks/abc359_e) | [C++ 20 (gcc 12.2)](./atcoder/abc359/E.cpp) | `AtCoder` `*500` | Jun/22/2024 19:06 | 
 304 | [C - Tile Distance 2](https://atcoder.jp/contests/abc359/tasks/abc359_c) | [C++ 20 (gcc 12.2)](./atcoder/abc359/C.cpp) | `AtCoder` `*350` | Jun/22/2024 17:58 | 
 303 | [B - Couples](https://atcoder.jp/contests/abc359/tasks/abc359_b) | [C++ 20 (gcc 12.2)](./atcoder/abc359/B.cpp) | `AtCoder` `*150` | Jun/22/2024 17:33 | 
