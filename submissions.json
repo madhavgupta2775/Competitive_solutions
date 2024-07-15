@@ -5530,6 +5530,23 @@
     ],
     "timestamp": "Jun/25/2024 22:44"
   },
+  "CF270654427": {
+    "contest_id": 1988,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1988\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make Majority",
+    "problem_url": "https://codeforces.com/contest/1988/problem/B",
+    "submission_id": "CF270654427",
+    "submission_url": "https://codeforces.com/contest/1988/submission/270654427",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jul/15/2024 20:16"
+  },
   "CF270667782": {
     "contest_id": 1988,
     "language": "C++20 (GCC 13-64)",
