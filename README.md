@@ -14,9 +14,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-313 | [C - Squaring](https://codeforces.com/contest/1995/problem/C) | [C++20 (GCC 13-64)](./codeforces/1995/C.cpp) | `greedy` `implementation` `math` `math` `math` `number theory` | Jul/23/2024 22:55 | 
-312 | [B2 - Bouquet (Hard Version)](https://codeforces.com/contest/1995/problem/B2) | [C++20 (GCC 13-64)](./codeforces/1995/B2.cpp) | `greedy` `math` `sortings` `two pointers` | Jul/23/2024 20:27 | 
-311 | [B1 - Bouquet (Easy Version)](https://codeforces.com/contest/1995/problem/B1) | [C++20 (GCC 13-64)](./codeforces/1995/B1.cpp) | `binary search` `greedy` `sortings` `sortings` `two pointers` | Jul/23/2024 20:24 | 
+314 | [C - Squaring](https://codeforces.com/contest/1995/problem/C) | [C++20 (GCC 13-64)](./codeforces/1995/C.cpp) | `greedy` `implementation` `math` `math` `math` `number theory` | Jul/23/2024 22:55 | 
+313 | [B2 - Bouquet (Hard Version)](https://codeforces.com/contest/1995/problem/B2) | [C++20 (GCC 13-64)](./codeforces/1995/B2.cpp) | `greedy` `math` `sortings` `two pointers` | Jul/23/2024 20:27 | 
+312 | [B1 - Bouquet (Easy Version)](https://codeforces.com/contest/1995/problem/B1) | [C++20 (GCC 13-64)](./codeforces/1995/B1.cpp) | `binary search` `greedy` `sortings` `sortings` `two pointers` | Jul/23/2024 20:24 | 
+311 | [A - Diagonals](https://codeforces.com/contest/1995/problem/A) | [C++20 (GCC 13-64)](./codeforces/1995/A.cpp) | `brute force` `greedy` `implementation` `math` `ternary search` `trees` | Jul/23/2024 20:11 | 
 310 | [D - Beauty of the mountains](https://codeforces.com/contest/1982/problem/D) | [C++20 (GCC 13-64)](./codeforces/1982/D.cpp) | `brute force` `data structures` `dp` `implementation` `math` `number theory` | Jun/25/2024 22:44 | 
 309 | [C - Boring Day](https://codeforces.com/contest/1982/problem/C) | [C++20 (GCC 13-64)](./codeforces/1982/C.cpp) | `binary search` `data structures` `dp` `greedy` `two pointers` | Jun/25/2024 20:37 | 
 308 | [B - Collatz Conjecture](https://codeforces.com/contest/1982/problem/B) | [C++20 (GCC 13-64)](./codeforces/1982/B.cpp) | `brute force` `implementation` `math` `number theory` | Jun/25/2024 20:31 | 
