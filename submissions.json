@@ -5530,6 +5530,25 @@
     ],
     "timestamp": "Jun/25/2024 22:44"
   },
+  "CF272088192": {
+    "contest_id": 1990,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1990\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Grid Puzzle",
+    "problem_url": "https://codeforces.com/contest/1990/problem/D",
+    "submission_id": "CF272088192",
+    "submission_url": "https://codeforces.com/contest/1990/submission/272088192",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Jul/23/2024 19:46"
+  },
   "CF272093507": {
     "contest_id": 1995,
     "language": "C++20 (GCC 13-64)",
